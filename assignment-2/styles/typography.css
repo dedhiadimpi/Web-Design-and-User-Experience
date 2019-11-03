@@ -1,0 +1,40 @@
+/*typography.css contains font styling for the page*/
+
+/*Giving green color to some words in the page*/
+span{
+    color: rgb(6, 184, 89);
+}
+
+/*Changing the font of paragraphs in div boxes*/
+p{
+    color: rgb(151, 153, 152);
+    font-family: Gotham A,Gotham B,sans-serif;
+    font-size: 93%;
+}
+
+/*This class can be used to give font to the header*/
+.header-font{
+    font-family: Gotham A,Gotham B,sans-serif;
+}
+
+h1{
+    font-family: Righteous;
+}
+
+/*Styling the adjacent <h4> sibling of <h1>*/
+h1 + h4{
+    font-family: Gotham A,Gotham B,sans-serif;
+    font-weight: normal;
+    font-size: 17px;
+}
+
+/*Change in color of div boxes while hover - Pseudo-Class*/
+div:hover{
+    background-color: lightgray;
+}
+
+/*Change in color when any element selected - Pseudo-Element*/
+*::selection{
+    background-color: #a6a6a6;
+    color: white;
+}

@@ -1,0 +1,3 @@
+/*main.css calls other two css files*/
+@import "sizing.css";
+@import "typography.css";

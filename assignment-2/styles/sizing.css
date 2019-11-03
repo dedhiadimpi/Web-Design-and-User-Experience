@@ -1,0 +1,100 @@
+/*sizing.css contains the margin, padding, border and other sizing for the page*/
+
+/*Styling of horizontal line
+7% of the line is dark gary and other light gray*/
+.hr-first{
+    width: 7%;
+    border: 0.47px solid #666666;
+    margin-right: 0;
+}
+
+.hr-second{
+    width: 78.4%;
+    border: 0.47px solid lightgray;
+    margin-left: 0;
+}
+
+.hr-first, .hr-second{
+    float: left;
+    position: relative;
+    margin-bottom: 2%;
+}
+
+/*Removing bottom margin from the header*/
+h1{
+    margin-bottom: 0;
+}
+
+/*Styling adjacent <h4> sibling of <h1>*/
+h1 + h4{
+    margin-top: 0.9em;
+    margin-bottom: 2em;
+}
+
+/*Styling second <p> child of the parent element */
+p:nth-child(2){
+    margin-top: 0;
+}
+
+/*Giving padding to image*/
+img{
+    padding-top: 95%;
+    padding-left: 0;
+}
+
+/*Giving margin and border to <div> which is child of <div>*/
+div > div{
+    margin-right: 2.5%;
+    margin-bottom: 2%;
+    border-radius: 2%;
+}
+
+/*Giving padding to <h3> and <p> element*/
+h3,p{
+    padding-left: 0.9em;
+}
+
+/*creation of class which can be used to give left margin*/
+.left-margin{
+    margin-left: 7%;
+}
+
+/*Class for all div boxes*/
+.div-box{
+    float: left;
+    position: relative;
+    width: 29%;
+    height: 220px;
+    border: 0.5px solid lightgray;
+}
+
+/*Class for footer of each div box*/
+div.footer {
+    position: absolute;
+    width: 90%;
+    bottom: 4px;
+}
+
+p.footer-1{
+    float: left;
+    padding-right: 1%;
+}
+
+p.footer-2{
+    float: left;
+    padding-left: 0;
+    padding-top: 0.5%;
+}
+
+/*Removing scroll*/
+body{
+    position: fixed;
+}
+
+/*Styling <h2> tag*/
+a{
+    margin-bottom: 0.8%;
+    font-size: 130%;
+    text-decoration: none;
+    color: black;
+}
