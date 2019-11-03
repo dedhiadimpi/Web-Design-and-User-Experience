@@ -1,0 +1,35 @@
+//import 'variables.scss'
+@import "variables";
+
+//Creation of mixin for headers
+@mixin individual-headers{
+  color: $textColor-green;
+  font-weight: bold;
+  font-size: 140%;
+}
+
+
+//Creation of mixin for circle
+@mixin border-radius-circle{
+  -webkit-border-radius: $border-radius-circle;
+  -moz-border-radius: $border-radius-circle;
+  border-radius: $border-radius-circle;
+}
+
+//Creation of mixin for left and right margin
+@mixin left-right-margin{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+//Creation of mixin for white background + green text
+@mixin bg-white-text-green{
+  background-color: white;
+  color: $textColor-green;
+}
+
+//Creation of mixin for green background + white text
+@mixin bg-green-text-white{
+  background-color: $textColor-green;
+  color: white;
+}

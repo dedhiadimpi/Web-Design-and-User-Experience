@@ -1,0 +1,275 @@
+//import mixin.scss and variables.scss
+@import "mixin";
+@import "variables";
+
+//Entire application should have same font
+body{
+  font-family: $fontFamily;
+  margin: 0px 0px 0px 0px;
+}
+
+.font-green{
+  color: $textColor-green;
+}
+
+.section-placing{
+  height: 100px;
+  margin-top: 100px;
+  visibility: hidden;
+}
+
+//Styling of left and right headers
+.header-left, .header-right{
+  float: left;
+  height: 30px;
+  padding-top: 1.8%;
+  color: $textColor-gray;
+  font-size: 85%;
+}
+
+.header-left{
+  width: 57.5%;
+}
+
+.header-right{
+  width: 40%;
+}
+
+//Styling of thin horizontal line after header
+hr{
+  border: 0.47px solid lightgray;
+  margin-top: 0px;
+}
+
+//Addition of background color to the Cover image
+.bg-cover-image{
+  position: relative;
+  background-color: rgba(7, 88, 89, 0.9);
+  height: $coverImage-height;
+}
+
+//Styling of <h1>, <h3>, <h5> and <p>
+h1, h5{
+  position: absolute;
+  left: 20%;
+  width: 30%;
+  color: white;
+}
+
+h1{
+  top: 25%;
+}
+
+h5{
+  top: 50%;
+  font-weight: 100;
+}
+
+h3{
+  color: $textColor-green;
+  font-weight: normal;
+  font-size: 120%;
+}
+
+p{
+  color: $textColor-gray;
+  font-size: 80%;
+}
+
+//Styling of <h4> which is child of div 'aboutCompanyGrid-cell-two'
+.aboutCompanyGrid-cell-two > h4{
+  color: $textColor-gray;
+  font-size: 90%;
+  margin-bottom: 0px;
+}
+
+//Styling of <h2> which is child of div aboutCompanyGrid-cell-two
+.aboutCompanyGrid-cell-two > h2{
+  @include individual-headers;
+  font-size: 170%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+//Styling of small square
+.div-square{
+  float: left;
+  border: 3px solid $textColor-green;
+  width: 10%;
+  height: 55%;
+  border-radius: 6%;
+  margin-top: 4%;
+  margin-right: 4%;
+  position: relative;
+}
+
+//Styling of question mark
+.div-question-mark{
+  color: $textColor-green;
+  font-size: 300%;
+  font-weight: 600;
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+//nested styling for horizontal div of Save money
+.horizontal-bar{
+  //border: 1px solid black;
+  background-color: $textColor-green;
+  height:80px;
+  div{
+    float: left;
+    width: 45%;
+    padding-left: 18%;
+    padding-top: 2.4%;
+    color: white;
+    font-size: 110%;
+  }
+  button{
+    float: left;
+    border: none;
+    height: 3.2em;
+    width: 12%;
+    border-radius: 32px;
+    @include bg-white-text-green;
+    text-align:center;
+    cursor:pointer;
+    margin-top: 1.5%;
+  }
+}
+
+//nested Styling for testimonial
+.testimonials{
+  padding-top: 2%;
+  h2{
+    text-align: center;
+    //including a mixin of header
+    @include individual-headers;
+  }
+  p{
+    text-align: center;
+    margin-left: 26%;
+    margin-right: 26%;
+  }
+  div{
+    margin-left: 40%;
+    margin-right: 30%;
+    width: 20%;
+    height: 1.5em;
+    padding-top: 0.6%;
+    font-size: 90%;
+    text-align: center;
+    //including a mixin of background color + text color
+    @include bg-green-text-white;
+    margin-bottom: 5%;
+  }
+}
+
+.ourProjects{
+  h2 {
+    text-align: center;
+    @include individual-headers;
+    margin-bottom: 3%;
+    padding-top: 2.5%;
+  }
+}
+
+//Creates a section for form
+.form-container{
+  position: relative;
+  background-color: #535557;
+  height: 40em;
+}
+
+//Addition of background in form section
+.form-bg-image{
+  height: 40em;
+  background-image: url("../src/images/latestBlogThree.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.4;
+}
+
+//Styling of the form
+form{
+  position: absolute;
+  background-color: white;
+  height: 82%;
+  width: 30%;
+  top: 10%;
+  left: 52%;
+  h2{
+    @include individual-headers;
+    text-align: center;
+    margin-top: 6%;
+  }
+  input{
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 79%;
+    height: 10%;
+    margin-bottom: 6%;
+    background-color: rgba(128,128,128,0.2);
+    border: none;
+    padding-left: 3%;
+  }
+  input::placeholder{
+    font-style: italic;
+    color: rgba(128, 128, 128, 0.72);
+  }
+  input[name="message"]{
+    height: 20%;
+    text-align: left;
+  }
+  //Styling using Attribute selectors
+  input[type="submit"]{
+    width: 82.5%;
+    background-color: $textColor-green;
+    color: white;
+    font-weight: bold;
+  }
+}
+
+footer{
+  h3{
+    font-weight: bold;
+  }
+  h4{
+    color: dimgrey;
+    padding-left: 15%;
+  }
+  ul{
+    list-style-type: none;
+    li{
+        color: $textColor-gray;
+        font-size: 80%;
+        margin-bottom: 4%;
+        a{
+          text-decoration: none;
+          color: $textColor-gray;
+        }
+      div{
+        border: 2px solid $textColor-green;
+        float: left;
+        width: 5.5%;
+        height: 1em;
+        margin-right: 5%;
+        border-radius: 10%;
+        font-weight: bold;
+        color: $textColor-green;
+        padding-left: 1%;
+      }
+    }
+  }
+}
+
+svg{
+  height: 2.5em;
+}
+
+section{
+  background-color: rgba(221, 221, 221, 0.22);
+}

@@ -1,0 +1,80 @@
+//import 'variables.scss and mixin.scss'
+@import "variables";
+@import "mixin";
+
+//In scss we need to specify the url() for loading image as image gets loaded through file-loader
+.cover-image{
+  height: $coverImage-height;
+  background-image: url("../src/images/coverPhoto.jpg");
+  opacity: 1-0.7;
+}
+
+//Addition of Images for Cleaning Services
+.residential-cleaning-image, .commercial-cleaning-image, .office-cleaning-image, .seasonal-cleaning-image{
+  height: 100%-50;
+  width: 100%;
+  object-fit: cover;
+}
+
+.residential-cleaning-image{
+  content: url("../src/images/residentialCleaning.png");
+}
+
+.commercial-cleaning-image{
+  content: url("../src/images/commercialCleaning.png");
+}
+
+.office-cleaning-image{
+  content: url("../src/images/officeCleaning.png");
+}
+
+.seasonal-cleaning-image{
+  content: url("../src/images/seasonalCleaning.png");
+}
+
+.cleaning-image{
+  height: 500px;
+  width: 76%;
+  content: url("../src/images/cleaningLady.png");
+  margin-top: 0px;
+  margin-left: 0px;
+}
+
+//Addition of image for Team members
+.team-member-1-image, .team-member-2-image, .team-member-3-image{
+  @include border-radius-circle;
+  height: 15em;
+  width: 72%;
+}
+
+.latestBlog-one-image, .latestBlog-two-image, .latestBlog-three-image{
+  height: 52.5%;
+  width: 100%;
+  //object-fit: cover;
+  margin: 0px 0px 0px 0px;
+}
+
+.latestBlog-one-image{
+  content: url("../src/images/latestBlogOne.jpg");
+}
+
+.latestBlog-two-image{
+  content: url("../src/images/coverPhoto.jpg");
+}
+
+.latestBlog-three-image{
+  content: url("../src/images/latestBlogThree.jpg");
+}
+
+//Styling the image of testimonial
+figure{
+  text-align: center;
+  .testimonials-image{
+    content: url("../src/images/testimonialImage.jpg");
+    @include border-radius-circle;
+    height: 10em;
+    width: 13%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+  }
+}

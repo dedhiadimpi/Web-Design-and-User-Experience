@@ -1,0 +1,37 @@
+//import variable.scss
+@import "variables";
+
+//Stying the navigation bar
+nav{
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  //margin-bottom: 1%;
+  background-color: white;
+  padding-bottom: 1%;
+  //Styling the links inside navigation bar
+  a{
+    margin-right: 1%;
+    text-decoration: none;
+    color: #535557;
+    font-weight: 500;
+    font-size: 77%;
+    color: $textColor-gray;
+  }
+}
+
+//Styling the logo 'CleanNow'
+.logo{
+  color: $textColor-green;
+  font-weight: 900;
+  font-size: 180%;
+  margin-left: 20%;
+  margin-right: 13%;
+  text-decoration: none;
+  padding-top: 100px;
+}
+
+//Giving green color on hover of navigation bar
+a:hover{
+  color: $textColor-green;
+}

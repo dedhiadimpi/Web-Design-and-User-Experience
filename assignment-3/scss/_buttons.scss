@@ -1,0 +1,54 @@
+//import 'variables.scss and mixin.scss'
+@import "variables";
+@import "mixin";
+
+//general styling for all buttons
+//this class acts as a parent class to all other button classes i.e. can be extended by all button classes
+.general-button-setting{
+  border-radius: 32px;
+  text-align: center;
+  cursor: pointer;
+}
+
+//Button for 'Get in touch'
+.btn-get-in-touch{
+  position: absolute;
+  top: 67%;
+  left: 20%;
+  border: none;
+  height: 8%;
+  width: 15%;
+  @include bg-white-text-green;
+  font-size: 90%;
+  font-weight: 700;
+  @extend .general-button-setting;
+}
+
+//Button for 'Request a Quote'
+.btn-request-a-quote{
+  border: none;
+  height: 40px;
+  width: 10%;
+  @extend .general-button-setting;
+  font-size: 80%;
+  @include bg-green-text-white;
+}
+
+//Button for 'More Services'
+.btn-more-services{
+  border: none;
+  height: 45px;
+  width: 15%;
+  @extend .general-button-setting;
+  @include bg-green-text-white
+}
+
+//button for 'More Info'
+.btn-more-info{
+  border: none;
+  height: 60%;
+  width: 30%;
+  @extend .general-button-setting;
+  margin-top: 3%;
+  @include bg-green-text-white
+}

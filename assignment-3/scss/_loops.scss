@@ -1,0 +1,20 @@
+@for $i from 2 through 4{
+  .whyChooseUsGrid-cell-#{$i} {
+    grid-column: $i - 1;
+    grid-row: 2;
+  }
+}
+
+$list: jamesCawdale josephDoe dainaMason;
+$i: 0;
+
+@each $name in $list{
+  $i: $i + 1;
+  .team-member-#{$i}-image {
+    @if $name == dainaMason{
+      content: url("../src/images/#{$name}.png");
+    } @else{
+      content: url("../src/images/#{$name}.jpg");
+    }
+  }
+}

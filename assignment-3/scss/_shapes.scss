@@ -1,0 +1,43 @@
+//import 'variables.scss and mixin.scss'
+@import "variables";
+@import "mixin";
+
+//Creation of Circle
+.circle{
+  position: relative;
+  height: 6.9em;
+  width: 35%;
+  background-color: $textColor-green;
+  //including border radius for creation of circle
+  @include border-radius-circle;
+  align-content: center;
+  left: 33%;
+}
+
+//Creation of Square
+.square{
+  position: absolute;
+  height: 40%;
+  width: 40%;
+  border: 1px solid white;
+  border-width: thick;
+  border-radius: 10%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+//Creation of question-mark
+.questionMark{
+  position: absolute;
+  height: 10%;
+  width: 10%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-weight: bold;
+  color: white;
+  font-size: 280%;
+  padding-bottom: 34%;
+  padding-right: 12%;
+}
