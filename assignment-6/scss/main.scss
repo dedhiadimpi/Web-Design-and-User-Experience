@@ -1,0 +1,18 @@
+/*Styling table*/
+#stocks{
+  border-collapse:collapse;
+  margin-top: 2%;
+}
+
+/*Styling th and td*/
+th,td{
+  text-align: center;
+  border: 1px solid black;
+  padding: 8px;
+}
+
+/*Styling button*/
+button{
+  width: 10%;
+  height: 22px;
+}
