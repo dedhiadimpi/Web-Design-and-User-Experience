@@ -1,0 +1,1169 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/docs/script/inherited-summary.js",
+    "content": "(function(){\r\n  function toggle(ev) {\r\n    var button = ev.target;\r\n    var parent = ev.target.parentElement;\r\n    while(parent) {\r\n      if (parent.tagName === 'TABLE' && parent.classList.contains('summary')) break;\r\n      parent = parent.parentElement;\r\n    }\r\n\r\n    if (!parent) return;\r\n\r\n    var tbody = parent.querySelector('tbody');\r\n    if (button.classList.contains('opened')) {\r\n      button.classList.remove('opened');\r\n      button.classList.add('closed');\r\n      tbody.style.display = 'none';\r\n    } else {\r\n      button.classList.remove('closed');\r\n      button.classList.add('opened');\r\n      tbody.style.display = 'block';\r\n    }\r\n  }\r\n\r\n  var buttons = document.querySelectorAll('.inherited-summary thead .toggle');\r\n  for (var i = 0; i < buttons.length; i++) {\r\n    buttons[i].addEventListener('click', toggle);\r\n  }\r\n})();\r\n",
+    "static": true,
+    "longname": "C:/Users/dedhi/work/WEB_DESIGN/Assignments/assignment-5-dedhiadimpi/src/docs/script/inherited-summary.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "file",
+    "name": "src/docs/script/inner-link.js",
+    "content": "// inner link(#foo) can not correctly scroll, because page has fixed header,\r\n// so, I manually scroll.\r\n(function(){\r\n  var matched = location.hash.match(/errorLines=([\\d,]+)/);\r\n  if (matched) return;\r\n\r\n  function adjust() {\r\n    window.scrollBy(0, -55);\r\n    var el = document.querySelector('.inner-link-active');\r\n    if (el) el.classList.remove('inner-link-active');\r\n\r\n    // ``[ ] . ' \" @`` are not valid in DOM id. so must escape these.\r\n    var id = location.hash.replace(/([\\[\\].'\"@$])/g, '\\\\$1');\r\n    var el = document.querySelector(id);\r\n    if (el) el.classList.add('inner-link-active');\r\n  }\r\n\r\n  window.addEventListener('hashchange', adjust);\r\n\r\n  if (location.hash) {\r\n    setTimeout(adjust, 0);\r\n  }\r\n})();\r\n\r\n(function(){\r\n  var els = document.querySelectorAll('[href^=\"#\"]');\r\n  var href = location.href.replace(/#.*$/, ''); // remove existed hash\r\n  for (var i = 0; i < els.length; i++) {\r\n    var el = els[i];\r\n    el.href = href + el.getAttribute('href'); // because el.href is absolute path\r\n  }\r\n})();\r\n",
+    "static": true,
+    "longname": "C:/Users/dedhi/work/WEB_DESIGN/Assignments/assignment-5-dedhiadimpi/src/docs/script/inner-link.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 50,
+    "kind": "file",
+    "name": "src/docs/script/manual.js",
+    "content": "(function(){\r\n  var matched = location.pathname.match(/\\/(manual\\/.*\\.html)$/);\r\n  if (!matched) return;\r\n\r\n  var currentName = matched[1];\r\n  var cssClass = '.navigation .manual-toc li[data-link=\"' + currentName + '\"]';\r\n  var styleText = cssClass + '{ display: block; }\\n';\r\n  styleText += cssClass + '.indent-h1 a { color: #039BE5 }';\r\n  var style = document.createElement('style');\r\n  style.textContent = styleText;\r\n  document.querySelector('head').appendChild(style);\r\n})();\r\n",
+    "static": true,
+    "longname": "C:/Users/dedhi/work/WEB_DESIGN/Assignments/assignment-5-dedhiadimpi/src/docs/script/manual.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 51,
+    "kind": "file",
+    "name": "src/docs/script/patch-for-local.js",
+    "content": "(function(){\r\n  if (location.protocol === 'file:') {\r\n    var elms = document.querySelectorAll('a[href=\"./\"]');\r\n    for (var i = 0; i < elms.length; i++) {\r\n      elms[i].href = './index.html';\r\n    }\r\n  }\r\n})();\r\n",
+    "static": true,
+    "longname": "C:/Users/dedhi/work/WEB_DESIGN/Assignments/assignment-5-dedhiadimpi/src/docs/script/patch-for-local.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 52,
+    "kind": "file",
+    "name": "src/docs/script/prettify/prettify.js",
+    "content": "!function(){/*\r\n\r\n Copyright (C) 2006 Google Inc.\r\n\r\n Licensed under the Apache License, Version 2.0 (the \"License\");\r\n you may not use this file except in compliance with the License.\r\n You may obtain a copy of the License at\r\n\r\n      http://www.apache.org/licenses/LICENSE-2.0\r\n\r\n Unless required by applicable law or agreed to in writing, software\r\n distributed under the License is distributed on an \"AS IS\" BASIS,\r\n WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\r\n See the License for the specific language governing permissions and\r\n limitations under the License.\r\n*/\r\nwindow.PR_SHOULD_USE_CONTINUATION=!0;\r\n(function(){function T(a){function d(e){var b=e.charCodeAt(0);if(92!==b)return b;var a=e.charAt(1);return(b=w[a])?b:\"0\"<=a&&\"7\">=a?parseInt(e.substring(1),8):\"u\"===a||\"x\"===a?parseInt(e.substring(2),16):e.charCodeAt(1)}function f(e){if(32>e)return(16>e?\"\\\\x0\":\"\\\\x\")+e.toString(16);e=String.fromCharCode(e);return\"\\\\\"===e||\"-\"===e||\"]\"===e||\"^\"===e?\"\\\\\"+e:e}function b(e){var b=e.substring(1,e.length-1).match(/\\\\u[0-9A-Fa-f]{4}|\\\\x[0-9A-Fa-f]{2}|\\\\[0-3][0-7]{0,2}|\\\\[0-7]{1,2}|\\\\[\\s\\S]|-|[^-\\\\]/g);e=\r\n[];var a=\"^\"===b[0],c=[\"[\"];a&&c.push(\"^\");for(var a=a?1:0,g=b.length;a<g;++a){var h=b[a];if(/\\\\[bdsw]/i.test(h))c.push(h);else{var h=d(h),k;a+2<g&&\"-\"===b[a+1]?(k=d(b[a+2]),a+=2):k=h;e.push([h,k]);65>k||122<h||(65>k||90<h||e.push([Math.max(65,h)|32,Math.min(k,90)|32]),97>k||122<h||e.push([Math.max(97,h)&-33,Math.min(k,122)&-33]))}}e.sort(function(e,a){return e[0]-a[0]||a[1]-e[1]});b=[];g=[];for(a=0;a<e.length;++a)h=e[a],h[0]<=g[1]+1?g[1]=Math.max(g[1],h[1]):b.push(g=h);for(a=0;a<b.length;++a)h=b[a],\r\nc.push(f(h[0])),h[1]>h[0]&&(h[1]+1>h[0]&&c.push(\"-\"),c.push(f(h[1])));c.push(\"]\");return c.join(\"\")}function v(e){for(var a=e.source.match(/(?:\\[(?:[^\\x5C\\x5D]|\\\\[\\s\\S])*\\]|\\\\u[A-Fa-f0-9]{4}|\\\\x[A-Fa-f0-9]{2}|\\\\[0-9]+|\\\\[^ux0-9]|\\(\\?[:!=]|[\\(\\)\\^]|[^\\x5B\\x5C\\(\\)\\^]+)/g),c=a.length,d=[],g=0,h=0;g<c;++g){var k=a[g];\"(\"===k?++h:\"\\\\\"===k.charAt(0)&&(k=+k.substring(1))&&(k<=h?d[k]=-1:a[g]=f(k))}for(g=1;g<d.length;++g)-1===d[g]&&(d[g]=++A);for(h=g=0;g<c;++g)k=a[g],\"(\"===k?(++h,d[h]||(a[g]=\"(?:\")):\"\\\\\"===\r\nk.charAt(0)&&(k=+k.substring(1))&&k<=h&&(a[g]=\"\\\\\"+d[k]);for(g=0;g<c;++g)\"^\"===a[g]&&\"^\"!==a[g+1]&&(a[g]=\"\");if(e.ignoreCase&&n)for(g=0;g<c;++g)k=a[g],e=k.charAt(0),2<=k.length&&\"[\"===e?a[g]=b(k):\"\\\\\"!==e&&(a[g]=k.replace(/[a-zA-Z]/g,function(a){a=a.charCodeAt(0);return\"[\"+String.fromCharCode(a&-33,a|32)+\"]\"}));return a.join(\"\")}for(var A=0,n=!1,l=!1,m=0,c=a.length;m<c;++m){var p=a[m];if(p.ignoreCase)l=!0;else if(/[a-z]/i.test(p.source.replace(/\\\\u[0-9a-f]{4}|\\\\x[0-9a-f]{2}|\\\\[^ux]/gi,\"\"))){n=!0;\r\nl=!1;break}}for(var w={b:8,t:9,n:10,v:11,f:12,r:13},r=[],m=0,c=a.length;m<c;++m){p=a[m];if(p.global||p.multiline)throw Error(\"\"+p);r.push(\"(?:\"+v(p)+\")\")}return new RegExp(r.join(\"|\"),l?\"gi\":\"g\")}function U(a,d){function f(a){var c=a.nodeType;if(1==c){if(!b.test(a.className)){for(c=a.firstChild;c;c=c.nextSibling)f(c);c=a.nodeName.toLowerCase();if(\"br\"===c||\"li\"===c)v[l]=\"\\n\",n[l<<1]=A++,n[l++<<1|1]=a}}else if(3==c||4==c)c=a.nodeValue,c.length&&(c=d?c.replace(/\\r\\n?/g,\"\\n\"):c.replace(/[ \\t\\r\\n]+/g,\r\n\" \"),v[l]=c,n[l<<1]=A,A+=c.length,n[l++<<1|1]=a)}var b=/(?:^|\\s)nocode(?:\\s|$)/,v=[],A=0,n=[],l=0;f(a);return{a:v.join(\"\").replace(/\\n$/,\"\"),c:n}}function J(a,d,f,b,v){f&&(a={h:a,l:1,j:null,m:null,a:f,c:null,i:d,g:null},b(a),v.push.apply(v,a.g))}function V(a){for(var d=void 0,f=a.firstChild;f;f=f.nextSibling)var b=f.nodeType,d=1===b?d?a:f:3===b?W.test(f.nodeValue)?a:d:d;return d===a?void 0:d}function G(a,d){function f(a){for(var l=a.i,m=a.h,c=[l,\"pln\"],p=0,w=a.a.match(v)||[],r={},e=0,t=w.length;e<\r\nt;++e){var z=w[e],q=r[z],g=void 0,h;if(\"string\"===typeof q)h=!1;else{var k=b[z.charAt(0)];if(k)g=z.match(k[1]),q=k[0];else{for(h=0;h<A;++h)if(k=d[h],g=z.match(k[1])){q=k[0];break}g||(q=\"pln\")}!(h=5<=q.length&&\"lang-\"===q.substring(0,5))||g&&\"string\"===typeof g[1]||(h=!1,q=\"src\");h||(r[z]=q)}k=p;p+=z.length;if(h){h=g[1];var B=z.indexOf(h),D=B+h.length;g[2]&&(D=z.length-g[2].length,B=D-h.length);q=q.substring(5);J(m,l+k,z.substring(0,B),f,c);J(m,l+k+B,h,K(q,h),c);J(m,l+k+D,z.substring(D),f,c)}else c.push(l+\r\nk,q)}a.g=c}var b={},v;(function(){for(var f=a.concat(d),l=[],m={},c=0,p=f.length;c<p;++c){var w=f[c],r=w[3];if(r)for(var e=r.length;0<=--e;)b[r.charAt(e)]=w;w=w[1];r=\"\"+w;m.hasOwnProperty(r)||(l.push(w),m[r]=null)}l.push(/[\\0-\\uffff]/);v=T(l)})();var A=d.length;return f}function y(a){var d=[],f=[];a.tripleQuotedStrings?d.push([\"str\",/^(?:\\'\\'\\'(?:[^\\'\\\\]|\\\\[\\s\\S]|\\'{1,2}(?=[^\\']))*(?:\\'\\'\\'|$)|\\\"\\\"\\\"(?:[^\\\"\\\\]|\\\\[\\s\\S]|\\\"{1,2}(?=[^\\\"]))*(?:\\\"\\\"\\\"|$)|\\'(?:[^\\\\\\']|\\\\[\\s\\S])*(?:\\'|$)|\\\"(?:[^\\\\\\\"]|\\\\[\\s\\S])*(?:\\\"|$))/,\r\nnull,\"'\\\"\"]):a.multiLineStrings?d.push([\"str\",/^(?:\\'(?:[^\\\\\\']|\\\\[\\s\\S])*(?:\\'|$)|\\\"(?:[^\\\\\\\"]|\\\\[\\s\\S])*(?:\\\"|$)|\\`(?:[^\\\\\\`]|\\\\[\\s\\S])*(?:\\`|$))/,null,\"'\\\"`\"]):d.push([\"str\",/^(?:\\'(?:[^\\\\\\'\\r\\n]|\\\\.)*(?:\\'|$)|\\\"(?:[^\\\\\\\"\\r\\n]|\\\\.)*(?:\\\"|$))/,null,\"\\\"'\"]);a.verbatimStrings&&f.push([\"str\",/^@\\\"(?:[^\\\"]|\\\"\\\")*(?:\\\"|$)/,null]);var b=a.hashComments;b&&(a.cStyleComments?(1<b?d.push([\"com\",/^#(?:##(?:[^#]|#(?!##))*(?:###|$)|.*)/,null,\"#\"]):d.push([\"com\",/^#(?:(?:define|e(?:l|nd)if|else|error|ifn?def|include|line|pragma|undef|warning)\\b|[^\\r\\n]*)/,\r\nnull,\"#\"]),f.push([\"str\",/^<(?:(?:(?:\\.\\.\\/)*|\\/?)(?:[\\w-]+(?:\\/[\\w-]+)+)?[\\w-]+\\.h(?:h|pp|\\+\\+)?|[a-z]\\w*)>/,null])):d.push([\"com\",/^#[^\\r\\n]*/,null,\"#\"]));a.cStyleComments&&(f.push([\"com\",/^\\/\\/[^\\r\\n]*/,null]),f.push([\"com\",/^\\/\\*[\\s\\S]*?(?:\\*\\/|$)/,null]));if(b=a.regexLiterals){var v=(b=1<b?\"\":\"\\n\\r\")?\".\":\"[\\\\S\\\\s]\";f.push([\"lang-regex\",RegExp(\"^(?:^^\\\\.?|[+-]|[!=]=?=?|\\\\#|%=?|&&?=?|\\\\(|\\\\*=?|[+\\\\-]=|->|\\\\/=?|::?|<<?=?|>>?>?=?|,|;|\\\\?|@|\\\\[|~|{|\\\\^\\\\^?=?|\\\\|\\\\|?=?|break|case|continue|delete|do|else|finally|instanceof|return|throw|try|typeof)\\\\s*(\"+\r\n(\"/(?=[^/*\"+b+\"])(?:[^/\\\\x5B\\\\x5C\"+b+\"]|\\\\x5C\"+v+\"|\\\\x5B(?:[^\\\\x5C\\\\x5D\"+b+\"]|\\\\x5C\"+v+\")*(?:\\\\x5D|$))+/\")+\")\")])}(b=a.types)&&f.push([\"typ\",b]);b=(\"\"+a.keywords).replace(/^ | $/g,\"\");b.length&&f.push([\"kwd\",new RegExp(\"^(?:\"+b.replace(/[\\s,]+/g,\"|\")+\")\\\\b\"),null]);d.push([\"pln\",/^\\s+/,null,\" \\r\\n\\t\\u00a0\"]);b=\"^.[^\\\\s\\\\w.$@'\\\"`/\\\\\\\\]*\";a.regexLiterals&&(b+=\"(?!s*/)\");f.push([\"lit\",/^@[a-z_$][a-z_$@0-9]*/i,null],[\"typ\",/^(?:[@_]?[A-Z]+[a-z][A-Za-z_$@0-9]*|\\w+_t\\b)/,null],[\"pln\",/^[a-z_$][a-z_$@0-9]*/i,\r\nnull],[\"lit\",/^(?:0x[a-f0-9]+|(?:\\d(?:_\\d+)*\\d*(?:\\.\\d*)?|\\.\\d\\+)(?:e[+\\-]?\\d+)?)[a-z]*/i,null,\"0123456789\"],[\"pln\",/^\\\\[\\s\\S]?/,null],[\"pun\",new RegExp(b),null]);return G(d,f)}function L(a,d,f){function b(a){var c=a.nodeType;if(1==c&&!A.test(a.className))if(\"br\"===a.nodeName)v(a),a.parentNode&&a.parentNode.removeChild(a);else for(a=a.firstChild;a;a=a.nextSibling)b(a);else if((3==c||4==c)&&f){var d=a.nodeValue,q=d.match(n);q&&(c=d.substring(0,q.index),a.nodeValue=c,(d=d.substring(q.index+q[0].length))&&\r\na.parentNode.insertBefore(l.createTextNode(d),a.nextSibling),v(a),c||a.parentNode.removeChild(a))}}function v(a){function b(a,c){var d=c?a.cloneNode(!1):a,k=a.parentNode;if(k){var k=b(k,1),e=a.nextSibling;k.appendChild(d);for(var f=e;f;f=e)e=f.nextSibling,k.appendChild(f)}return d}for(;!a.nextSibling;)if(a=a.parentNode,!a)return;a=b(a.nextSibling,0);for(var d;(d=a.parentNode)&&1===d.nodeType;)a=d;c.push(a)}for(var A=/(?:^|\\s)nocode(?:\\s|$)/,n=/\\r\\n?|\\n/,l=a.ownerDocument,m=l.createElement(\"li\");a.firstChild;)m.appendChild(a.firstChild);\r\nfor(var c=[m],p=0;p<c.length;++p)b(c[p]);d===(d|0)&&c[0].setAttribute(\"value\",d);var w=l.createElement(\"ol\");w.className=\"linenums\";d=Math.max(0,d-1|0)||0;for(var p=0,r=c.length;p<r;++p)m=c[p],m.className=\"L\"+(p+d)%10,m.firstChild||m.appendChild(l.createTextNode(\"\\u00a0\")),w.appendChild(m);a.appendChild(w)}function t(a,d){for(var f=d.length;0<=--f;){var b=d[f];I.hasOwnProperty(b)?E.console&&console.warn(\"cannot override language handler %s\",b):I[b]=a}}function K(a,d){a&&I.hasOwnProperty(a)||(a=/^\\s*</.test(d)?\r\n\"default-markup\":\"default-code\");return I[a]}function M(a){var d=a.j;try{var f=U(a.h,a.l),b=f.a;a.a=b;a.c=f.c;a.i=0;K(d,b)(a);var v=/\\bMSIE\\s(\\d+)/.exec(navigator.userAgent),v=v&&8>=+v[1],d=/\\n/g,A=a.a,n=A.length,f=0,l=a.c,m=l.length,b=0,c=a.g,p=c.length,w=0;c[p]=n;var r,e;for(e=r=0;e<p;)c[e]!==c[e+2]?(c[r++]=c[e++],c[r++]=c[e++]):e+=2;p=r;for(e=r=0;e<p;){for(var t=c[e],z=c[e+1],q=e+2;q+2<=p&&c[q+1]===z;)q+=2;c[r++]=t;c[r++]=z;e=q}c.length=r;var g=a.h;a=\"\";g&&(a=g.style.display,g.style.display=\"none\");\r\ntry{for(;b<m;){var h=l[b+2]||n,k=c[w+2]||n,q=Math.min(h,k),B=l[b+1],D;if(1!==B.nodeType&&(D=A.substring(f,q))){v&&(D=D.replace(d,\"\\r\"));B.nodeValue=D;var N=B.ownerDocument,u=N.createElement(\"span\");u.className=c[w+1];var y=B.parentNode;y.replaceChild(u,B);u.appendChild(B);f<h&&(l[b+1]=B=N.createTextNode(A.substring(q,h)),y.insertBefore(B,u.nextSibling))}f=q;f>=h&&(b+=2);f>=k&&(w+=2)}}finally{g&&(g.style.display=a)}}catch(x){E.console&&console.log(x&&x.stack||x)}}var E=window,C=[\"break,continue,do,else,for,if,return,while\"],\r\nF=[[C,\"auto,case,char,const,default,double,enum,extern,float,goto,inline,int,long,register,restrict,short,signed,sizeof,static,struct,switch,typedef,union,unsigned,void,volatile\"],\"catch,class,delete,false,import,new,operator,private,protected,public,this,throw,true,try,typeof\"],H=[F,\"alignas,alignof,align_union,asm,axiom,bool,concept,concept_map,const_cast,constexpr,decltype,delegate,dynamic_cast,explicit,export,friend,generic,late_check,mutable,namespace,noexcept,noreturn,nullptr,property,reinterpret_cast,static_assert,static_cast,template,typeid,typename,using,virtual,where\"],\r\nO=[F,\"abstract,assert,boolean,byte,extends,finally,final,implements,import,instanceof,interface,null,native,package,strictfp,super,synchronized,throws,transient\"],P=[F,\"abstract,add,alias,as,ascending,async,await,base,bool,by,byte,checked,decimal,delegate,descending,dynamic,event,finally,fixed,foreach,from,get,global,group,implicit,in,interface,internal,into,is,join,let,lock,null,object,out,override,orderby,params,partial,readonly,ref,remove,sbyte,sealed,select,set,stackalloc,string,select,uint,ulong,unchecked,unsafe,ushort,value,var,virtual,where,yield\"],\r\nF=[F,\"abstract,async,await,constructor,debugger,enum,eval,export,function,get,implements,instanceof,interface,let,null,set,undefined,var,with,yield,Infinity,NaN\"],Q=[C,\"and,as,assert,class,def,del,elif,except,exec,finally,from,global,import,in,is,lambda,nonlocal,not,or,pass,print,raise,try,with,yield,False,True,None\"],R=[C,\"alias,and,begin,case,class,def,defined,elsif,end,ensure,false,in,module,next,nil,not,or,redo,rescue,retry,self,super,then,true,undef,unless,until,when,yield,BEGIN,END\"],C=[C,\"case,done,elif,esac,eval,fi,function,in,local,set,then,until\"],\r\nS=/^(DIR|FILE|array|vector|(de|priority_)?queue|(forward_)?list|stack|(const_)?(reverse_)?iterator|(unordered_)?(multi)?(set|map)|bitset|u?(int|float)\\d*)\\b/,W=/\\S/,X=y({keywords:[H,P,O,F,\"caller,delete,die,do,dump,elsif,eval,exit,foreach,for,goto,if,import,last,local,my,next,no,our,print,package,redo,require,sub,undef,unless,until,use,wantarray,while,BEGIN,END\",Q,R,C],hashComments:!0,cStyleComments:!0,multiLineStrings:!0,regexLiterals:!0}),I={};t(X,[\"default-code\"]);t(G([],[[\"pln\",/^[^<?]+/],[\"dec\",\r\n/^<!\\w[^>]*(?:>|$)/],[\"com\",/^<\\!--[\\s\\S]*?(?:-\\->|$)/],[\"lang-\",/^<\\?([\\s\\S]+?)(?:\\?>|$)/],[\"lang-\",/^<%([\\s\\S]+?)(?:%>|$)/],[\"pun\",/^(?:<[%?]|[%?]>)/],[\"lang-\",/^<xmp\\b[^>]*>([\\s\\S]+?)<\\/xmp\\b[^>]*>/i],[\"lang-js\",/^<script\\b[^>]*>([\\s\\S]*?)(<\\/script\\b[^>]*>)/i],[\"lang-css\",/^<style\\b[^>]*>([\\s\\S]*?)(<\\/style\\b[^>]*>)/i],[\"lang-in.tag\",/^(<\\/?[a-z][^<>]*>)/i]]),\"default-markup htm html mxml xhtml xml xsl\".split(\" \"));t(G([[\"pln\",/^[\\s]+/,null,\" \\t\\r\\n\"],[\"atv\",/^(?:\\\"[^\\\"]*\\\"?|\\'[^\\']*\\'?)/,null,\r\n\"\\\"'\"]],[[\"tag\",/^^<\\/?[a-z](?:[\\w.:-]*\\w)?|\\/?>$/i],[\"atn\",/^(?!style[\\s=]|on)[a-z](?:[\\w:-]*\\w)?/i],[\"lang-uq.val\",/^=\\s*([^>\\'\\\"\\s]*(?:[^>\\'\\\"\\s\\/]|\\/(?=\\s)))/],[\"pun\",/^[=<>\\/]+/],[\"lang-js\",/^on\\w+\\s*=\\s*\\\"([^\\\"]+)\\\"/i],[\"lang-js\",/^on\\w+\\s*=\\s*\\'([^\\']+)\\'/i],[\"lang-js\",/^on\\w+\\s*=\\s*([^\\\"\\'>\\s]+)/i],[\"lang-css\",/^style\\s*=\\s*\\\"([^\\\"]+)\\\"/i],[\"lang-css\",/^style\\s*=\\s*\\'([^\\']+)\\'/i],[\"lang-css\",/^style\\s*=\\s*([^\\\"\\'>\\s]+)/i]]),[\"in.tag\"]);t(G([],[[\"atv\",/^[\\s\\S]+/]]),[\"uq.val\"]);t(y({keywords:H,\r\nhashComments:!0,cStyleComments:!0,types:S}),\"c cc cpp cxx cyc m\".split(\" \"));t(y({keywords:\"null,true,false\"}),[\"json\"]);t(y({keywords:P,hashComments:!0,cStyleComments:!0,verbatimStrings:!0,types:S}),[\"cs\"]);t(y({keywords:O,cStyleComments:!0}),[\"java\"]);t(y({keywords:C,hashComments:!0,multiLineStrings:!0}),[\"bash\",\"bsh\",\"csh\",\"sh\"]);t(y({keywords:Q,hashComments:!0,multiLineStrings:!0,tripleQuotedStrings:!0}),[\"cv\",\"py\",\"python\"]);t(y({keywords:\"caller,delete,die,do,dump,elsif,eval,exit,foreach,for,goto,if,import,last,local,my,next,no,our,print,package,redo,require,sub,undef,unless,until,use,wantarray,while,BEGIN,END\",\r\nhashComments:!0,multiLineStrings:!0,regexLiterals:2}),[\"perl\",\"pl\",\"pm\"]);t(y({keywords:R,hashComments:!0,multiLineStrings:!0,regexLiterals:!0}),[\"rb\",\"ruby\"]);t(y({keywords:F,cStyleComments:!0,regexLiterals:!0}),[\"javascript\",\"js\",\"ts\",\"typescript\"]);t(y({keywords:\"all,and,by,catch,class,else,extends,false,finally,for,if,in,is,isnt,loop,new,no,not,null,of,off,on,or,return,super,then,throw,true,try,unless,until,when,while,yes\",hashComments:3,cStyleComments:!0,multilineStrings:!0,tripleQuotedStrings:!0,\r\nregexLiterals:!0}),[\"coffee\"]);t(G([],[[\"str\",/^[\\s\\S]+/]]),[\"regex\"]);var Y=E.PR={createSimpleLexer:G,registerLangHandler:t,sourceDecorator:y,PR_ATTRIB_NAME:\"atn\",PR_ATTRIB_VALUE:\"atv\",PR_COMMENT:\"com\",PR_DECLARATION:\"dec\",PR_KEYWORD:\"kwd\",PR_LITERAL:\"lit\",PR_NOCODE:\"nocode\",PR_PLAIN:\"pln\",PR_PUNCTUATION:\"pun\",PR_SOURCE:\"src\",PR_STRING:\"str\",PR_TAG:\"tag\",PR_TYPE:\"typ\",prettyPrintOne:E.prettyPrintOne=function(a,d,f){f=f||!1;d=d||null;var b=document.createElement(\"div\");b.innerHTML=\"<pre>\"+a+\"</pre>\";\r\nb=b.firstChild;f&&L(b,f,!0);M({j:d,m:f,h:b,l:1,a:null,i:null,c:null,g:null});return b.innerHTML},prettyPrint:E.prettyPrint=function(a,d){function f(){for(var b=E.PR_SHOULD_USE_CONTINUATION?c.now()+250:Infinity;p<t.length&&c.now()<b;p++){for(var d=t[p],l=g,m=d;m=m.previousSibling;){var n=m.nodeType,u=(7===n||8===n)&&m.nodeValue;if(u?!/^\\??prettify\\b/.test(u):3!==n||/\\S/.test(m.nodeValue))break;if(u){l={};u.replace(/\\b(\\w+)=([\\w:.%+-]+)/g,function(a,b,c){l[b]=c});break}}m=d.className;if((l!==g||r.test(m))&&\r\n!e.test(m)){n=!1;for(u=d.parentNode;u;u=u.parentNode)if(q.test(u.tagName)&&u.className&&r.test(u.className)){n=!0;break}if(!n){d.className+=\" prettyprinted\";n=l.lang;if(!n){var n=m.match(w),C;!n&&(C=V(d))&&z.test(C.tagName)&&(n=C.className.match(w));n&&(n=n[1])}if(y.test(d.tagName))u=1;else var u=d.currentStyle,x=v.defaultView,u=(u=u?u.whiteSpace:x&&x.getComputedStyle?x.getComputedStyle(d,null).getPropertyValue(\"white-space\"):0)&&\"pre\"===u.substring(0,3);x=l.linenums;(x=\"true\"===x||+x)||(x=(x=m.match(/\\blinenums\\b(?::(\\d+))?/))?\r\nx[1]&&x[1].length?+x[1]:!0:!1);x&&L(d,x,u);M({j:n,h:d,m:x,l:u,a:null,i:null,c:null,g:null})}}}p<t.length?E.setTimeout(f,250):\"function\"===typeof a&&a()}for(var b=d||document.body,v=b.ownerDocument||document,b=[b.getElementsByTagName(\"pre\"),b.getElementsByTagName(\"code\"),b.getElementsByTagName(\"xmp\")],t=[],n=0;n<b.length;++n)for(var l=0,m=b[n].length;l<m;++l)t.push(b[n][l]);var b=null,c=Date;c.now||(c={now:function(){return+new Date}});var p=0,w=/\\blang(?:uage)?-([\\w.]+)(?!\\S)/,r=/\\bprettyprint\\b/,\r\ne=/\\bprettyprinted\\b/,y=/pre|xmp/i,z=/^code$/i,q=/^(?:pre|code|xmp)$/i,g={};f()}},H=E.define;\"function\"===typeof H&&H.amd&&H(\"google-code-prettify\",[],function(){return Y})})();}()\r\n",
+    "static": true,
+    "longname": "C:/Users/dedhi/work/WEB_DESIGN/Assignments/assignment-5-dedhiadimpi/src/docs/script/prettify/prettify.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 53,
+    "kind": "file",
+    "name": "src/docs/script/pretty-print.js",
+    "content": "(function(){\r\n  prettyPrint();\r\n  var lines = document.querySelectorAll('.prettyprint.linenums li[class^=\"L\"]');\r\n  for (var i = 0; i < lines.length; i++) {\r\n    lines[i].id = 'lineNumber' + (i + 1);\r\n  }\r\n\r\n  var matched = location.hash.match(/errorLines=([\\d,]+)/);\r\n  if (matched) {\r\n    var lines = matched[1].split(',');\r\n    for (var i = 0; i < lines.length; i++) {\r\n      var id = '#lineNumber' + lines[i];\r\n      var el = document.querySelector(id);\r\n      el.classList.add('error-line');\r\n    }\r\n    return;\r\n  }\r\n\r\n  if (location.hash) {\r\n    // ``[ ] . ' \" @`` are not valid in DOM id. so must escape these.\r\n    var id = location.hash.replace(/([\\[\\].'\"@$])/g, '\\\\$1');\r\n    var line = document.querySelector(id);\r\n    if (line) line.classList.add('active');\r\n  }\r\n})();\r\n",
+    "static": true,
+    "longname": "C:/Users/dedhi/work/WEB_DESIGN/Assignments/assignment-5-dedhiadimpi/src/docs/script/pretty-print.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 54,
+    "kind": "file",
+    "name": "src/docs/script/search.js",
+    "content": "(function(){\r\n  var searchIndex = window.esdocSearchIndex;\r\n  var searchBox = document.querySelector('.search-box');\r\n  var input = document.querySelector('.search-input');\r\n  var result = document.querySelector('.search-result');\r\n  var selectedIndex = -1;\r\n  var prevText;\r\n\r\n  // active search box and focus when mouse enter on search box.\r\n  searchBox.addEventListener('mouseenter', function(){\r\n    searchBox.classList.add('active');\r\n    input.focus();\r\n  });\r\n\r\n  // search with text when key is upped.\r\n  input.addEventListener('keyup', function(ev){\r\n    var text = ev.target.value.toLowerCase();\r\n    if (!text) {\r\n      result.style.display = 'none';\r\n      result.innerHTML = '';\r\n      return;\r\n    }\r\n\r\n    if (text === prevText) return;\r\n    prevText = text;\r\n\r\n    var html = {class: [], method: [], member: [], function: [], variable: [], typedef: [], external: [], file: [], test: [], testFile: []};\r\n    var len = searchIndex.length;\r\n    var kind;\r\n    for (var i = 0; i < len; i++) {\r\n      var pair = searchIndex[i];\r\n      if (pair[0].indexOf(text) !== -1) {\r\n        kind = pair[3];\r\n        html[kind].push('<li><a href=\"' + pair[1] + '\">' + pair[2] + '</a></li>');\r\n      }\r\n    }\r\n\r\n    var innerHTML = '';\r\n    for (kind in html) {\r\n      var list = html[kind];\r\n      if (!list.length) continue;\r\n      innerHTML += '<li class=\"search-separator\">' + kind + '</li>\\n' + list.join('\\n');\r\n    }\r\n    result.innerHTML = innerHTML;\r\n    if (innerHTML) result.style.display = 'block';\r\n    selectedIndex = -1;\r\n  });\r\n\r\n  // down, up and enter key are pressed, select search result.\r\n  input.addEventListener('keydown', function(ev){\r\n    if (ev.keyCode === 40) {\r\n      // arrow down\r\n      var current = result.children[selectedIndex];\r\n      var selected = result.children[selectedIndex + 1];\r\n      if (selected && selected.classList.contains('search-separator')) {\r\n        var selected = result.children[selectedIndex + 2];\r\n        selectedIndex++;\r\n      }\r\n\r\n      if (selected) {\r\n        if (current) current.classList.remove('selected');\r\n        selectedIndex++;\r\n        selected.classList.add('selected');\r\n      }\r\n    } else if (ev.keyCode === 38) {\r\n      // arrow up\r\n      var current = result.children[selectedIndex];\r\n      var selected = result.children[selectedIndex - 1];\r\n      if (selected && selected.classList.contains('search-separator')) {\r\n        var selected = result.children[selectedIndex - 2];\r\n        selectedIndex--;\r\n      }\r\n\r\n      if (selected) {\r\n        if (current) current.classList.remove('selected');\r\n        selectedIndex--;\r\n        selected.classList.add('selected');\r\n      }\r\n    } else if (ev.keyCode === 13) {\r\n      // enter\r\n      var current = result.children[selectedIndex];\r\n      if (current) {\r\n        var link = current.querySelector('a');\r\n        if (link) location.href = link.href;\r\n      }\r\n    } else {\r\n      return;\r\n    }\r\n\r\n    ev.preventDefault();\r\n  });\r\n\r\n  // select search result when search result is mouse over.\r\n  result.addEventListener('mousemove', function(ev){\r\n    var current = result.children[selectedIndex];\r\n    if (current) current.classList.remove('selected');\r\n\r\n    var li = ev.target;\r\n    while (li) {\r\n      if (li.nodeName === 'LI') break;\r\n      li = li.parentElement;\r\n    }\r\n\r\n    if (li) {\r\n      selectedIndex = Array.prototype.indexOf.call(result.children, li);\r\n      li.classList.add('selected');\r\n    }\r\n  });\r\n\r\n  // clear search result when body is clicked.\r\n  document.body.addEventListener('click', function(ev){\r\n    selectedIndex = -1;\r\n    result.style.display = 'none';\r\n    result.innerHTML = '';\r\n  });\r\n\r\n})();\r\n",
+    "static": true,
+    "longname": "C:/Users/dedhi/work/WEB_DESIGN/Assignments/assignment-5-dedhiadimpi/src/docs/script/search.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 55,
+    "kind": "file",
+    "name": "src/docs/script/search_index.js",
+    "content": "window.esdocSearchIndex = [\r\n  [\r\n    \"src/.external-ecmascript.js~array\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array\",\r\n    \"src/.external-ecmascript.js~Array\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~arraybuffer\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer\",\r\n    \"src/.external-ecmascript.js~ArrayBuffer\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~boolean\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean\",\r\n    \"src/.external-ecmascript.js~Boolean\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~dataview\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView\",\r\n    \"src/.external-ecmascript.js~DataView\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~date\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date\",\r\n    \"src/.external-ecmascript.js~Date\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~error\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error\",\r\n    \"src/.external-ecmascript.js~Error\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~evalerror\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError\",\r\n    \"src/.external-ecmascript.js~EvalError\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~float32array\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array\",\r\n    \"src/.external-ecmascript.js~Float32Array\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~float64array\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array\",\r\n    \"src/.external-ecmascript.js~Float64Array\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~function\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function\",\r\n    \"src/.external-ecmascript.js~Function\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~generator\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator\",\r\n    \"src/.external-ecmascript.js~Generator\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~generatorfunction\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction\",\r\n    \"src/.external-ecmascript.js~GeneratorFunction\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~infinity\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity\",\r\n    \"src/.external-ecmascript.js~Infinity\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~int16array\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array\",\r\n    \"src/.external-ecmascript.js~Int16Array\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~int32array\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array\",\r\n    \"src/.external-ecmascript.js~Int32Array\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~int8array\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array\",\r\n    \"src/.external-ecmascript.js~Int8Array\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~internalerror\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError\",\r\n    \"src/.external-ecmascript.js~InternalError\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~json\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON\",\r\n    \"src/.external-ecmascript.js~JSON\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~map\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map\",\r\n    \"src/.external-ecmascript.js~Map\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~nan\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN\",\r\n    \"src/.external-ecmascript.js~NaN\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~number\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number\",\r\n    \"src/.external-ecmascript.js~Number\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~object\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object\",\r\n    \"src/.external-ecmascript.js~Object\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~promise\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise\",\r\n    \"src/.external-ecmascript.js~Promise\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~proxy\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy\",\r\n    \"src/.external-ecmascript.js~Proxy\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~rangeerror\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError\",\r\n    \"src/.external-ecmascript.js~RangeError\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~referenceerror\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError\",\r\n    \"src/.external-ecmascript.js~ReferenceError\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~reflect\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect\",\r\n    \"src/.external-ecmascript.js~Reflect\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~regexp\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp\",\r\n    \"src/.external-ecmascript.js~RegExp\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~set\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set\",\r\n    \"src/.external-ecmascript.js~Set\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~string\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String\",\r\n    \"src/.external-ecmascript.js~String\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~symbol\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\",\r\n    \"src/.external-ecmascript.js~Symbol\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~syntaxerror\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError\",\r\n    \"src/.external-ecmascript.js~SyntaxError\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~typeerror\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError\",\r\n    \"src/.external-ecmascript.js~TypeError\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~urierror\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError\",\r\n    \"src/.external-ecmascript.js~URIError\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~uint16array\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array\",\r\n    \"src/.external-ecmascript.js~Uint16Array\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~uint32array\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array\",\r\n    \"src/.external-ecmascript.js~Uint32Array\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~uint8array\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array\",\r\n    \"src/.external-ecmascript.js~Uint8Array\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~uint8clampedarray\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray\",\r\n    \"src/.external-ecmascript.js~Uint8ClampedArray\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~weakmap\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap\",\r\n    \"src/.external-ecmascript.js~WeakMap\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~weakset\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet\",\r\n    \"src/.external-ecmascript.js~WeakSet\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~boolean\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean\",\r\n    \"src/.external-ecmascript.js~boolean\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~function\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function\",\r\n    \"src/.external-ecmascript.js~function\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~null\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null\",\r\n    \"src/.external-ecmascript.js~null\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~number\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number\",\r\n    \"src/.external-ecmascript.js~number\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~object\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object\",\r\n    \"src/.external-ecmascript.js~object\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~string\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String\",\r\n    \"src/.external-ecmascript.js~string\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/.external-ecmascript.js~undefined\",\r\n    \"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined\",\r\n    \"src/.external-ecmascript.js~undefined\",\r\n    \"external\"\r\n  ],\r\n  [\r\n    \"src/docs/script/inherited-summary.js\",\r\n    \"file/src/docs/script/inherited-summary.js.html\",\r\n    \"src/docs/script/inherited-summary.js\",\r\n    \"file\"\r\n  ],\r\n  [\r\n    \"src/docs/script/inner-link.js\",\r\n    \"file/src/docs/script/inner-link.js.html\",\r\n    \"src/docs/script/inner-link.js\",\r\n    \"file\"\r\n  ],\r\n  [\r\n    \"src/docs/script/manual.js\",\r\n    \"file/src/docs/script/manual.js.html\",\r\n    \"src/docs/script/manual.js\",\r\n    \"file\"\r\n  ],\r\n  [\r\n    \"src/docs/script/patch-for-local.js\",\r\n    \"file/src/docs/script/patch-for-local.js.html\",\r\n    \"src/docs/script/patch-for-local.js\",\r\n    \"file\"\r\n  ],\r\n  [\r\n    \"src/docs/script/prettify/prettify.js\",\r\n    \"file/src/docs/script/prettify/prettify.js.html\",\r\n    \"src/docs/script/prettify/prettify.js\",\r\n    \"file\"\r\n  ],\r\n  [\r\n    \"src/docs/script/pretty-print.js\",\r\n    \"file/src/docs/script/pretty-print.js.html\",\r\n    \"src/docs/script/pretty-print.js\",\r\n    \"file\"\r\n  ],\r\n  [\r\n    \"src/docs/script/search.js\",\r\n    \"file/src/docs/script/search.js.html\",\r\n    \"src/docs/script/search.js\",\r\n    \"file\"\r\n  ],\r\n  [\r\n    \"src/docs/script/search_index.js\",\r\n    \"file/src/docs/script/search_index.js.html\",\r\n    \"src/docs/script/search_index.js\",\r\n    \"file\"\r\n  ],\r\n  [\r\n    \"src/docs/script/test-summary.js\",\r\n    \"file/src/docs/script/test-summary.js.html\",\r\n    \"src/docs/script/test-summary.js\",\r\n    \"file\"\r\n  ],\r\n  [\r\n    \"src/js/binarysearch.js\",\r\n    \"file/src/js/BinarySearch.js.html\",\r\n    \"src/js/BinarySearch.js\",\r\n    \"file\"\r\n  ],\r\n  [\r\n    \"src/js/quicksort.js\",\r\n    \"file/src/js/QuickSort.js.html\",\r\n    \"src/js/QuickSort.js\",\r\n    \"file\"\r\n  ],\r\n  [\r\n    \"src/js/reversestring.js\",\r\n    \"file/src/js/ReverseString.js.html\",\r\n    \"src/js/ReverseString.js\",\r\n    \"file\"\r\n  ]\r\n]",
+    "static": true,
+    "longname": "C:/Users/dedhi/work/WEB_DESIGN/Assignments/assignment-5-dedhiadimpi/src/docs/script/search_index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 56,
+    "kind": "file",
+    "name": "src/docs/script/test-summary.js",
+    "content": "(function(){\r\n  function toggle(ev) {\r\n    var button = ev.target;\r\n    var parent = ev.target.parentElement;\r\n    while(parent) {\r\n      if (parent.tagName === 'TR' && parent.classList.contains('test-interface')) break;\r\n      parent = parent.parentElement;\r\n    }\r\n\r\n    if (!parent) return;\r\n\r\n    var direction;\r\n    if (button.classList.contains('opened')) {\r\n      button.classList.remove('opened');\r\n      button.classList.add('closed');\r\n      direction = 'closed';\r\n    } else {\r\n      button.classList.remove('closed');\r\n      button.classList.add('opened');\r\n      direction = 'opened';\r\n    }\r\n\r\n    var targetDepth = parseInt(parent.dataset.testDepth, 10) + 1;\r\n    var nextElement = parent.nextElementSibling;\r\n    while (nextElement) {\r\n      var depth = parseInt(nextElement.dataset.testDepth, 10);\r\n      if (depth >= targetDepth) {\r\n        if (direction === 'opened') {\r\n          if (depth === targetDepth)  nextElement.style.display = '';\r\n        } else if (direction === 'closed') {\r\n          nextElement.style.display = 'none';\r\n          var innerButton = nextElement.querySelector('.toggle');\r\n          if (innerButton && innerButton.classList.contains('opened')) {\r\n            innerButton.classList.remove('opened');\r\n            innerButton.classList.add('closed');\r\n          }\r\n        }\r\n      } else {\r\n        break;\r\n      }\r\n      nextElement = nextElement.nextElementSibling;\r\n    }\r\n  }\r\n\r\n  var buttons = document.querySelectorAll('.test-summary tr.test-interface .toggle');\r\n  for (var i = 0; i < buttons.length; i++) {\r\n    buttons[i].addEventListener('click', toggle);\r\n  }\r\n\r\n  var topDescribes = document.querySelectorAll('.test-summary tr[data-test-depth=\"0\"]');\r\n  for (var i = 0; i < topDescribes.length; i++) {\r\n    topDescribes[i].style.display = '';\r\n  }\r\n})();\r\n",
+    "static": true,
+    "longname": "C:/Users/dedhi/work/WEB_DESIGN/Assignments/assignment-5-dedhiadimpi/src/docs/script/test-summary.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 57,
+    "kind": "file",
+    "name": "src/js/BinarySearch.js",
+    "content": "/**\r\n * @function binarySearch - This function searches the required value in given array\r\n * @param array - This is the array that has to be used for searching\r\n * @param search - This is the integer that has to be searched\r\n * @returns {boolean} - This returns true if element present in the list or else returns false\r\n */\r\nfunction binarySearch(array,search){\r\n    /**\r\n     *\r\n     * @type {number} - This indicates start index of the array\r\n     */\r\n    let start = 0;\r\n    /**\r\n     *\r\n     * @type {number} - This indicates end index of the array\r\n     */\r\n    let end = array.length-1;\r\n    /**\r\n     * @flow while traverses the array from start to end to search the number\r\n     */\r\n    while(start <= end){\r\n        /**\r\n         *\r\n         * @type {number} - This indicates the mid point of start and end\r\n         */\r\n        let midPoint = Math.round((start+end)/2);\r\n        if(search == array[midPoint]){\r\n            return true;\r\n        }\r\n        else{\r\n            if(search > array[midPoint]){\r\n                start = midPoint + 1;\r\n                continue;\r\n            } else{\r\n                end = midPoint - 1;\r\n                continue;\r\n            }\r\n        }\r\n    }\r\n    return false;\r\n}\r\n\r\n/**\r\n *\r\n * @type {number[]} - This is the array which has to be searched\r\n */\r\nlet array = [10,30,40,50];\r\n/**\r\n *\r\n * @type {number} - This is the integer that has to be searched\r\n */\r\nlet search = 30;\r\n/**\r\n *\r\n * @type {boolean} - This stores that boolean indicating whether search is found or not\r\n */\r\nlet searchResult = binarySearch(array, search);\r\nif(searchResult == true){\r\n    console.log(\"Number \"+search+\" found in the list\");\r\n}else{\r\n    console.log(\"Number \"+search+\" not found in the list\");\r\n}",
+    "static": true,
+    "longname": "C:/Users/dedhi/work/WEB_DESIGN/Assignments/assignment-5-dedhiadimpi/src/js/BinarySearch.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 58,
+    "kind": "function",
+    "name": "binarySearch",
+    "memberof": "src/js/BinarySearch.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/js/BinarySearch.js~binarySearch",
+    "access": "public",
+    "export": false,
+    "importPath": "assignment-5-dedhiadimpi/src/js/BinarySearch.js",
+    "importStyle": null,
+    "description": "",
+    "lineNumber": 7,
+    "unknown": [
+      {
+        "tagName": "@function",
+        "tagValue": "binarySearch - This function searches the required value in given array"
+      },
+      {
+        "tagName": "@returns",
+        "tagValue": "{boolean} - This returns true if element present in the list or else returns false"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "array",
+        "description": "This is the array that has to be used for searching"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "search",
+        "description": "This is the integer that has to be searched"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": "This returns true if element present in the list or else returns false"
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 59,
+    "kind": "variable",
+    "name": "array",
+    "memberof": "src/js/BinarySearch.js",
+    "static": true,
+    "longname": "src/js/BinarySearch.js~array",
+    "access": "public",
+    "export": false,
+    "importPath": "assignment-5-dedhiadimpi/src/js/BinarySearch.js",
+    "importStyle": null,
+    "description": "",
+    "lineNumber": 47,
+    "type": {
+      "nullable": null,
+      "types": [
+        "number[]"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 60,
+    "kind": "variable",
+    "name": "search",
+    "memberof": "src/js/BinarySearch.js",
+    "static": true,
+    "longname": "src/js/BinarySearch.js~search",
+    "access": "public",
+    "export": false,
+    "importPath": "assignment-5-dedhiadimpi/src/js/BinarySearch.js",
+    "importStyle": null,
+    "description": "",
+    "lineNumber": 52,
+    "type": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 61,
+    "kind": "variable",
+    "name": "searchResult",
+    "memberof": "src/js/BinarySearch.js",
+    "static": true,
+    "longname": "src/js/BinarySearch.js~searchResult",
+    "access": "public",
+    "export": false,
+    "importPath": "assignment-5-dedhiadimpi/src/js/BinarySearch.js",
+    "importStyle": null,
+    "description": "",
+    "lineNumber": 57,
+    "type": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 62,
+    "kind": "file",
+    "name": "src/js/QuickSort.js",
+    "content": "/**\r\n * @desc - Reference link used : https://www.guru99.com/quicksort-in-javascript.html\r\n */\r\n/**\r\n * @function swap - This function will swap two values\r\n * @param array - This is the array in which elements are to be swap\r\n * @param index1 - This is the first element that has to be swap\r\n * @param index2 - This is the second element that has to be swap\r\n */\r\nfunction swap(array, index1, index2){\r\n    /**\r\n     *\r\n     * @type {number} - This is a temporary variable to store the value of first number\r\n     */\r\n    let temp = array[index1];\r\n    array[index1] = array[index2];\r\n    array[index2] = temp;\r\n}\r\n\r\n/**\r\n * @function partition - This function sorts element less than pivot to left and greater than pivot to right\r\n * @param array - This is the array that has to be sorted\r\n * @param leftPointer - The start point from where sorting has to be performed\r\n * @param rightPointer - The end point till where sorting has to be performed\r\n * @returns {number} - This is the partition point\r\n */\r\nfunction partition(array, leftPointer, rightPointer){\r\n    /**\r\n     *\r\n     * @type {number} - This is the pivot point which is referred for sorting - Midpoint of start and end\r\n     */\r\n    let pivot = Math.floor((leftPointer+rightPointer)/2);\r\n    let i = leftPointer;\r\n    let j = rightPointer;\r\n    /**\r\n     * @flow while - iterate till start and end points merge\r\n     */\r\n    while(i <= j){\r\n        /**\r\n         * @flow while - loop till left side has number greater than pivot\r\n         */\r\n        while(array[i] < array[pivot]){\r\n            i++;\r\n        }\r\n        /**\r\n         * @flow while - loop till right side has number less than pivot\r\n         */\r\n        while(array[pivot] < array[j]){\r\n            j--;\r\n        }\r\n        /**\r\n         * @flow if - swap the number which is greater on left side with the number which is smaller on right side\r\n         */\r\n        if(i <= j){\r\n            swap(array, i, j);\r\n            i++;\r\n            j--;\r\n        }\r\n    }\r\n\r\n    return i;\r\n}\r\n\r\n/**\r\n * @function quickSort - This is a recursive function that sorts the array using divide and conquer method with complexity O(nlogn).\r\n * @param array - Array that has to be stored\r\n * @param leftPointer - Start point of sorting\r\n * @param rightPointer - End point of sorting\r\n * @returns {number[]} - This returns sorted array\r\n */\r\nfunction quickSort(array, leftPointer, rightPointer){\r\n    /**\r\n     *\r\n     * @type {number} - This is the index where array has been divided\r\n     */\r\n    let index = partition(array, leftPointer, rightPointer);\r\n    if(array.length > 1){\r\n         index = partition(array, leftPointer, rightPointer);\r\n        /**\r\n         * @flow if - Sorting the Left side after partition\r\n         */\r\n        if(leftPointer < index - 1){\r\n            quickSort(array, leftPointer, index - 1);\r\n        }\r\n        /**\r\n         * @flow if - Sorting the right side after partition\r\n         */\r\n        if(index < rightPointer){\r\n            quickSort(array, index, rightPointer);\r\n        }\r\n    }\r\n    return array;\r\n}\r\n\r\n/**\r\n *\r\n * @type {number[]} - Array to be sorted\r\n */\r\nlet array = [90,80,26,28,100];\r\n/**\r\n *\r\n * @type {number[]} - This stores the sorted array\r\n */\r\nlet sortedArray = quickSort(array,0,array.length - 1);\r\nconsole.log(\"Sorted Array: [\"+sortedArray+\"]\");",
+    "static": true,
+    "longname": "C:/Users/dedhi/work/WEB_DESIGN/Assignments/assignment-5-dedhiadimpi/src/js/QuickSort.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 63,
+    "kind": "function",
+    "name": "swap",
+    "memberof": "src/js/QuickSort.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/js/QuickSort.js~swap",
+    "access": "public",
+    "export": false,
+    "importPath": "assignment-5-dedhiadimpi/src/js/QuickSort.js",
+    "importStyle": null,
+    "description": "",
+    "lineNumber": 10,
+    "unknown": [
+      {
+        "tagName": "@function",
+        "tagValue": "swap - This function will swap two values"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "array",
+        "description": "This is the array in which elements are to be swap"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "index1",
+        "description": "This is the first element that has to be swap"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "index2",
+        "description": "This is the second element that has to be swap"
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 64,
+    "kind": "function",
+    "name": "partition",
+    "memberof": "src/js/QuickSort.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/js/QuickSort.js~partition",
+    "access": "public",
+    "export": false,
+    "importPath": "assignment-5-dedhiadimpi/src/js/QuickSort.js",
+    "importStyle": null,
+    "description": "",
+    "lineNumber": 27,
+    "unknown": [
+      {
+        "tagName": "@function",
+        "tagValue": "partition - This function sorts element less than pivot to left and greater than pivot to right"
+      },
+      {
+        "tagName": "@returns",
+        "tagValue": "{number} - This is the partition point"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "array",
+        "description": "This is the array that has to be sorted"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "leftPointer",
+        "description": "The start point from where sorting has to be performed"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "rightPointer",
+        "description": "The end point till where sorting has to be performed"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "This is the partition point"
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 65,
+    "kind": "function",
+    "name": "quickSort",
+    "memberof": "src/js/QuickSort.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/js/QuickSort.js~quickSort",
+    "access": "public",
+    "export": false,
+    "importPath": "assignment-5-dedhiadimpi/src/js/QuickSort.js",
+    "importStyle": null,
+    "description": "",
+    "lineNumber": 71,
+    "unknown": [
+      {
+        "tagName": "@function",
+        "tagValue": "quickSort - This is a recursive function that sorts the array using divide and conquer method with complexity O(nlogn)."
+      },
+      {
+        "tagName": "@returns",
+        "tagValue": "{number[]} - This returns sorted array"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "array",
+        "description": "Array that has to be stored"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "leftPointer",
+        "description": "Start point of sorting"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "rightPointer",
+        "description": "End point of sorting"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "number[]"
+      ],
+      "spread": false,
+      "description": "This returns sorted array"
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 66,
+    "kind": "variable",
+    "name": "array",
+    "memberof": "src/js/QuickSort.js",
+    "static": true,
+    "longname": "src/js/QuickSort.js~array",
+    "access": "public",
+    "export": false,
+    "importPath": "assignment-5-dedhiadimpi/src/js/QuickSort.js",
+    "importStyle": null,
+    "description": "",
+    "lineNumber": 99,
+    "type": {
+      "nullable": null,
+      "types": [
+        "number[]"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 67,
+    "kind": "variable",
+    "name": "sortedArray",
+    "memberof": "src/js/QuickSort.js",
+    "static": true,
+    "longname": "src/js/QuickSort.js~sortedArray",
+    "access": "public",
+    "export": false,
+    "importPath": "assignment-5-dedhiadimpi/src/js/QuickSort.js",
+    "importStyle": null,
+    "description": "",
+    "lineNumber": 104,
+    "type": {
+      "nullable": null,
+      "types": [
+        "number[]"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 68,
+    "kind": "file",
+    "name": "src/js/ReverseString.js",
+    "content": "/**\r\n * @function reverseString - Reverses the string\r\n * @param str - This is sting that has to be reversed\r\n * @returns {string} - This is reversed string\r\n */\r\nfunction reverseString(str){\r\n    /**\r\n     *\r\n     * @type {string} - This stores reversed string\r\n     */\r\n    let reverseStr = \"\";\r\n    /**\r\n     * @flow for traverses the string from end point and reverses the string\r\n     */\r\n    for(let i=str.length-1; i>=0; i--)\r\n    {\r\n        reverseStr = reverseStr+str[i];\r\n    }\r\n    return reverseStr;\r\n}\r\n\r\n/**\r\n *\r\n * @type {string} - This stores string that has to be reversed\r\n */\r\nlet str = \"Dimpi\";\r\n/**\r\n *\r\n * @type {string} - This stores reversed string after function call\r\n */\r\nlet reverseStr = reverseString(str);\r\nconsole.log(\"String: \"+str);\r\nconsole.log(\"Reversed String: \"+reverseStr);",
+    "static": true,
+    "longname": "C:/Users/dedhi/work/WEB_DESIGN/Assignments/assignment-5-dedhiadimpi/src/js/ReverseString.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 69,
+    "kind": "function",
+    "name": "reverseString",
+    "memberof": "src/js/ReverseString.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/js/ReverseString.js~reverseString",
+    "access": "public",
+    "export": false,
+    "importPath": "assignment-5-dedhiadimpi/src/js/ReverseString.js",
+    "importStyle": null,
+    "description": "",
+    "lineNumber": 6,
+    "unknown": [
+      {
+        "tagName": "@function",
+        "tagValue": "reverseString - Reverses the string"
+      },
+      {
+        "tagName": "@returns",
+        "tagValue": "{string} - This is reversed string"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "str",
+        "description": "This is sting that has to be reversed"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": "This is reversed string"
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 70,
+    "kind": "variable",
+    "name": "str",
+    "memberof": "src/js/ReverseString.js",
+    "static": true,
+    "longname": "src/js/ReverseString.js~str",
+    "access": "public",
+    "export": false,
+    "importPath": "assignment-5-dedhiadimpi/src/js/ReverseString.js",
+    "importStyle": null,
+    "description": "",
+    "lineNumber": 26,
+    "type": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 71,
+    "kind": "variable",
+    "name": "reverseStr",
+    "memberof": "src/js/ReverseString.js",
+    "static": true,
+    "longname": "src/js/ReverseString.js~reverseStr",
+    "access": "public",
+    "export": false,
+    "importPath": "assignment-5-dedhiadimpi/src/js/ReverseString.js",
+    "importStyle": null,
+    "description": "",
+    "lineNumber": 31,
+    "type": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "ignore": true
+  },
+  {
+    "kind": "index",
+    "content": "------------------------------------------------------------------------------------------------------------------------------------------\r\nAbout the Application\r\n------------------------------------------------------------------------------------------------------------------------------------------\r\nThe application is about three algorithms:\r\n1) Reverse a String\r\n2) Binary Search\r\n3) Quick Sort\r\nThe algorithms are written in JavaScript and are documented using Esdoc documentation\r\n\r\n------------------------------------------------------------------------------------------------------------------------------------------\r\nInstallation of Esdoc \r\n------------------------------------------------------------------------------------------------------------------------------------------\r\n1) Run below command on Terminal: \r\n   npm install esdoc esdoc-standard-plugin\r\n  \r\n2) Add below script in configuration file (esdoc.json):\r\n   {\r\n    \"source\": \"./src\",\r\n    \"destination\": \"./docs\",\r\n    \"plugins\": [{\"name\": \"esdoc-standard-plugin\"}]\r\n   }\r\n  \r\n3) Add srcipt (execute command) in Package.json:\r\n   \"esdoc\": \"node_modules/.bin/esdoc -c esdoc.json\"\r\n  \r\n4) Run below command on terminal to run esdoc:\r\n   npm run esdoc\r\n  \r\n------------------------------------------------------------------------------------------------------------------------------------------\r\nHow to run the Application\r\n------------------------------------------------------------------------------------------------------------------------------------------\r\nCopy the code in any online editor like repl.it and run the code on it\r\n  \r\n  \r\n\r\n\r\n\r\n",
+    "longname": "C:\\Users\\dedhi\\work\\WEB_DESIGN\\Assignments\\assignment-5-dedhiadimpi\\README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\r\n  \"name\": \"assignment-5-dedhiadimpi\",\r\n  \"version\": \"1.0.0\",\r\n  \"description\": \"\",\r\n  \"main\": \"index.js\",\r\n  \"scripts\": {\r\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\",\r\n    \"esdoc\": \"node_modules/.bin/esdoc -c esdoc.json\"\r\n  },\r\n  \"repository\": {\r\n    \"type\": \"git\",\r\n    \"url\": \"git+https://github.com/neu-mis-info6150-fall-2019/assignment-5-dedhiadimpi.git\"\r\n  },\r\n  \"author\": \"\",\r\n  \"license\": \"ISC\",\r\n  \"bugs\": {\r\n    \"url\": \"https://github.com/neu-mis-info6150-fall-2019/assignment-5-dedhiadimpi/issues\"\r\n  },\r\n  \"homepage\": \"https://github.com/neu-mis-info6150-fall-2019/assignment-5-dedhiadimpi#readme\",\r\n  \"dependencies\": {\r\n    \"esdoc\": \"^1.1.0\",\r\n    \"esdoc-standard-plugin\": \"^1.0.0\"\r\n  }\r\n}\r\n",
+    "longname": "C:\\Users\\dedhi\\work\\WEB_DESIGN\\Assignments\\assignment-5-dedhiadimpi\\package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]
