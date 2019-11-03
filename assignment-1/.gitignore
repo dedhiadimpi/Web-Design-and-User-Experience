@@ -1,0 +1,6 @@
+#Defines the files that are to be ignored
+.idea/assignment-1-dedhiadimpi.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml

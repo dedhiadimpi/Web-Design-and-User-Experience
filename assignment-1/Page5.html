@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--This page contains the Application form for Social Security Number-->
+    <meta charset="UTF-8">
+    <meta name="description" content="Information about Social Security Number Form: Page 4">
+    <meta name="keywords" content="SSN, SSN Form, Social Security Form, Social Security Number">
+    <meta name = "author" content="Dimpi Dedhia">
+    <title>SSN Form: Page 5</title>
+    <style>
+        .headerLeft,.headerRight{
+            /*Header is divided into two parts 1) Left and 2) Right*/
+            float: left;
+            position: relative;
+        }
+        .headerLeft{
+            /*Left header takes 85% of entire space*/
+            width: 85%;
+        }
+        .headerRight{
+            /*Left header takes 14% from the remaining space*/
+            width: 14%;
+        }
+        .footer{
+            /*The footer is divided into two parts: 1) leftmost 2) Page no. and navigation to Prev and Next
+            Both the parts are relative to each other and take up 50-50 space of entire page*/
+            float: left;
+            position: relative;
+            width: 50%;
+            margin-bottom: 7px;
+        }
+        hr.size{
+            /*specifies the size of horizontal line*/
+            border: 3px solid black;
+            width: 91%;
+            margin-left: 30px;
+        }
+        .margin{
+            /*Provides margin to the Form*/
+            margin-left: 30px;
+            margin-right: 76px;
+        }
+        .div-style{
+            /*This styling is for the last div which is not editable*/
+            float: left;
+            height: 25px;
+            border-bottom: 1px solid black;
+            border-right: 1px solid black;
+            padding-top: 2px;
+            padding-left: 2px;
+        }
+    </style>
+</head>
+<body>
+<header class="margin">
+<h1 class="headerLeft" style="margin-top: 0px; margin-bottom: 0px;"> SOCIAL SECURITY ADMINISTRATION <br> Application for a Social Security Card </h1>
+<h4 class="headerRight" style="margin-bottom: 0px;margin-top: 38px;"> Form Approved <br> OMB No. 0960-0066 </h4>
+</header>
+
+<hr class="size" class="margin">
+<!--Tag <form> is used for creation of SSN Application-->
+<!--On clicking of Submit button the attributes are validates and if validation is successful Success.html page is opened-->
+<form class="margin" method="post" action="Success.html">
+    <main>
+        <!--Groups 'NAME TO BE SHOWN ON CARD', 'FULL NAME AT BIRTH IF OTHER THAN ABOVE' and 'OTHER NAMES USED' under one box-->
+    <fieldset>
+        <legend>1</legend>
+        <!--Groups all elements of 'NAME TO BE SHOWN ON CARD' under one box-->
+            <fieldset>
+                <legend><b> NAME TO BE SHOWN ON CARD </b></legend>
+                <!--Draws text boxes for First, Middle and Last names-->
+                First<span style="color: red">*</span> <input type="text" name= "firstName" tabindex="1" maxlength= "50" spellcheck="true" required/><br><br>
+                Full Middle Name<span style="color: red">*</span><input type="text" name= "fullMiddleName" tabindex="3" maxlength="50" spellcheck="true" required/><br><br>
+                Last<span style="color: red">*</span> <input type="text" name="lastName" tabindex="2" maxlength="50" spellcheck="true" required/>
+            </fieldset>
+        <!--Groups all elements of 'FULL NAME AT BIRTH IF OTHER THAN ABOVE' under one box-->
+            <fieldset>
+                <legend> FULL NAME AT BIRTH IF OTHER THAN ABOVE </legend>
+                First <input type="text" name= "firstNameAlt" tabindex="4" maxlength= "50" spellcheck="true"/><br><br>
+                Full Middle Name <input type="text" name= "fullMiddleNameAlt" tabindex="6" maxlength="50" spellcheck="true"/><br><br>
+                Last <input type="text" name="lastNameAlt" tabindex="5" maxlength="50" spellcheck="true"/>
+            </fieldset>
+        <!--Groups all elements of 'OTHER NAMES USED' under one box-->
+            <fieldset>
+                <legend > OTHER NAMES USED </legend>
+                <input type="text" name="otherNames" maxlength="100" size="100" placeholder="Use comma separation if multiple names"/>
+            </fieldset>
+    </fieldset>
+    <fieldset>
+        <legend>2</legend>
+        <legend>Social Security number previously assigned to the person listed in item 1</legend>
+        <!--Draws boxes that can store only numbers ranging from 0-9-->
+        <input type="number" name="SSNPrev1" min="0" max="9"/><input type="number" name="SSNPrev2" min="0" max="9"/><input type="number" name="SSNPrev3" min="0" max="9"/> <b>-</b>
+        <input type="number" name="SSNPrev4" min="0" max="9"/><input type="number" name="SSNPrev5" min="0" max="9"/> <b>-</b>
+        <input type="number" name="SSNPrev6" min="0" max="9"/><input type="number" name="SSNPrev7" min="0" max="9"/><input type="number" name="SSNPrev8" min="0" max="9"/><input type="number" name="SSNPrev9" min="0" max="9"/>
+    </fieldset>
+    <fieldset>
+        <legend>3</legend>
+        <legend><b>PLACE OF BIRTH</b> (Do Not Abbreviate)</legend><br>
+        City<span style="color: red">*</span> <input type="text" name="city" maxlength="50" spellcheck="true" required/>
+        State or Foreign Country<span style="color: red">*</span> <input type="text" name="state" maxlength="50" spellcheck="true" required/><br><br>
+        Office Use Only <input type="text" value="FCI" disabled size="4" maxlength="50" spellcheck="true"/>
+    </fieldset>
+    <fieldset>
+        <legend>4</legend>
+        <!--Draws date-picker for Date of Birth-->
+        <b>DATE OF BIRTH<span style="color: red">*</span></b> <input type="date" name="dateOfBirth" required/>
+    </fieldset>
+    <fieldset>
+        <legend>5</legend>
+        <legend><b> CITIZENSHIP<span style="color: red">*</span> </b> (Check One)</legend>
+        <!--Draws radio buttons that provides facility to select any one option-->
+        <input type="radio" id="CUSCitizenRadio" name="citizenship" value="USCitizen" required/>U.S. Citizen<br>
+        <input type="radio" id="CLegalAlienAllowedRadio" name="citizenship" value="LegalAlienAllowed"/>Legal Alien Allowed To Work<br>
+        <input type="radio" id="CLegalAlienNotAllowedRadio" name="citizenship" value="LegalAlienNotAllowed"/>Legal Alien Not Allowed To Work (See Instructions On Page 3)<br>
+        <input type="radio" id="COtherRadio" name="citizenship" value="Other"/>Other (See Instructions On Page 3)
+    </fieldset>
+    <fieldset>
+        <legend>6</legend>
+        <legend><b>ETHNICITY<span style="color: red">*</span></b></legend><br>
+        Are You Hispanic or Latino? (Your Response is Voluntary)<br>
+        <input type="radio" id="EYesRadio" name="ethnicity" value="Yes" required/>Yes<br>
+        <input type="radio" id="ENRadio" name="ethnicity" value="No"/>No<br>
+    </fieldset>
+    <fieldset>
+        <legend>7</legend>
+        <legend>RACE (Select One or More, Your Response is Voluntary)</legend>
+        <!--Draws checkboxes that provides multiple selection-->
+        <input type="checkbox" name="race" value="Native Hawaiian"/>Native Hawaiian
+        <input type="checkbox" name="race" value="American Indian"/>American Indian
+        <input type="checkbox" name="race" value="Other Pacific Islander"/>Other Pacific Islander<br>
+        <input type="checkbox" name="race" value="Alaska Native"/>Alaska Native
+        <input type="checkbox" name="race" value="Black/African American"/>Black/African American
+        <input type="checkbox" name="race" value="White"/>White<br>
+        <input type="checkbox" name="race" value="Asian"/>Asian
+    </fieldset>
+    <fieldset>
+        <legend>8</legend>
+        <legend><b>SEX<span style="color: red">*</span></b></legend>
+        <input type="radio" id="SMaleRadio" name="sex" value="Male" required/>Male<br>
+        <input type="radio" id="SFemaleRadio" name="sex" value="Female"/>Female
+    </fieldset>
+    <fieldset>
+        <legend>9</legend>
+        <fieldset>
+            <legend><b>A. PARENT/ MOTHER'S NAME AT HER BIRTH</b></legend>
+            First<span style="color: red">*</span><input type="text" name= "firstNameMother" maxlength= "50" spellcheck="true" required/><br><br>
+            Full Middle Name<span style="color: red">*</span> <input type="text" name= "fullMiddleNameMother" maxlength="50" spellcheck="true" required/><br><br>
+            Last<span style="color: red">*</span> <input type="text" name="lastNameMother" maxlength="50" spellcheck="true" required/>
+        </fieldset>
+        <fieldset>
+            <legend><b>B. PARENT/ MOTHER'S SOCIAL SECURITY NUMBER<span style="color: red">*</span> </b>(<a href="Page3.html">See instructions for 9B on Page 3</a>)</legend>
+            <input type="number" name="SSNMother1" min="0" max="9" required/><input type="number" name="SSNMother2" min="0" max="9" required/><input type="number" name="SSNMother3" min="0" max="9" required/> <b>-</b>
+            <input type="number" name="SSNMother4" min="0" max="9" required/><input type="number" name="SSNMother5" min="0" max="9" required/> <b>-</b>
+            <input type="number" name="SSNMother6" min="0" max="9" required/><input type="number" name="SSNMother7" min="0" max="9" required/><input type="number" name="SSNMother8" min="0" max="9" required/><input type="number" name="SSNMother9" min="0" max="9" required/>
+            <input type="checkbox" name="SSNMotherUnknown" value="Unknown"/>Unknown
+        </fieldset>
+    </fieldset>
+    <fieldset>
+        <legend>10</legend>
+        <fieldset>
+            <legend><b>A. PARENT/ FATHER'S NAME</b></legend>
+            First<span style="color: red">*</span> <input type="text" name= "firstNameFather" maxlength= "50" spellcheck="true" required/><br><br>
+            Full Middle Name<span style="color: red">*</span> <input type="text" name= "fullMiddleNameFather" maxlength="50" spellcheck="true" required/><br><br>
+            Last<span style="color: red">*</span> <input type="text" name="lastNameFather" maxlength="50" spellcheck="true" required/>
+        </fieldset>
+        <fieldset>
+            <legend><b>B. PARENT/ FATHER'S SOCIAL SECURITY NUMBER<span style="color: red">*</span></b> (<a href="Page3.html">See instructions for 10B on Page 3</a>)</legend>
+            <input type="number" name="SSNFather1" min="0" max="9" required/><input type="number" name="SSNFather2" min="0" max="9" required/><input type="number" name="SSNFather3" min="0" max="9" required/> <b>-</b>
+            <input type="number" name="SSNFather4" min="0" max="9" required/><input type="number" name="SSNFather5" min="0" max="9" required/> <b>-</b>
+            <input type="number" name="SSNFather6" min="0" max="9" required/><input type="number" name="SSNFather7" min="0" max="9" required/><input type="number" name="SSNFather8" min="0" max="9" required/><input type="number" name="SSNFather9" min="0" max="9" required/>
+            <input type="checkbox" name="SSNFatherUnknown" value="Unknown"/>Unknown
+        </fieldset>
+    </fieldset>
+    <fieldset>
+        <legend>11</legend>
+        <legend>Has the person listed in item 1 or anyone acting on his/her behalf ever filed for or received a Social Security number card before?</legend>
+        <input type="radio" name="SSNBefore" value="Yes"/>Yes (If "yes" answer questions 12-13) &nbsp;&nbsp;&nbsp;
+        <input type="radio" name="SSNBefore" value="No"/>No &nbsp;&nbsp;&nbsp;
+        <input type="radio" name="SSNBefore" value="Don't Know"/>Don't Know (If "don't know," skip to question 14.)
+    </fieldset>
+    <fieldset>
+        <legend>12</legend>
+        <legend>Name shown on the most recent Social Security card issued for the person listed in item 1</legend><br>
+        First <input type="text" name= "firstName" maxlength= "50" spellcheck="true"/><br><br>
+        Full Middle Name <input type="text" name= "fullMiddleName" maxlength="50" spellcheck="true"/><br><br>
+        Last <input type="text" name="lastName" maxlength="50" spellcheck="true"/>
+    </fieldset>
+    <fieldset>
+        <legend>13</legend>
+        Enter any different date of birth if used on an earlier application for a card &nbsp;
+        <input type="date" name="dateOfBirth"/>
+    </fieldset>
+    <fieldset>
+        <legend>14</legend>
+        <b>TODAY'S DATE<span style="color: red">*</span></b> <input type="date" name="todayDate" required/>
+    </fieldset>
+    <fieldset>
+        <legend>15</legend>
+        <b>DAYTIME PHONE NUMBER<span style="color: red">* </span></b><input type="tel" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" name="telPhoneNo." placeholder="999-999-9999" required/>
+    </fieldset>
+    <fieldset>
+        <legend>16</legend>
+        <legend><b>MAILING ADDRESS</b><span style="color: red">*</span> (Do Not Abbreviate)</legend>
+        <!--Street Address <input type="text" name= "streetName" maxlength= "100" size="33" spellcheck="true" required/-->
+        <label>Street Address, Apt. No., PO Box, Rural Route No.</label><textarea rows="2" cols="40" required></textarea><br>
+        City <input type="text" name= "city" maxlength= "50" spellcheck="true" required/>
+        State/Foreign Country <input type="text" name= "country" maxlength= "50" spellcheck="true" required/>
+        ZIP Code <input type="number" name= "zipCode" min="0" required/>
+    </fieldset>
+    <fieldset>
+        <legend>17</legend>
+        <Label><b>I declare under penalty of perjury that I have examined all the information on this form, and on any accompanying statements or forms, and it is true and correct to the best to my knowledge.</b></Label><br>
+       <!--Draws a rectangular box which can be used with appropriate javascript to draw signature in the box-->
+        <canvas id="signatureCanvas" width="500" height="120" style="border:1px solid black;">
+            Your browser does not support the HTML5 canvas tag.
+        </canvas>
+    </fieldset>
+    <fieldset>
+        <legend>18</legend>
+        <legend><b>YOUR RELATIONSHIP TO THE PERSON IN ITEM 1 IS:<span style="color: red">*</span></b></legend>
+        <input type="radio" id="RselfRadio" name="relation" value="self" required/>Self<br>
+        <input type="radio" id="RparentRadio" name="relation" value="Parent"/>Natural Or Adoptive Parent<br>
+        <input type="radio" id="RLegalGuardianRadio" name="relation" value="LegalGuardian"/>Legal Guardian<br>
+        <input type="radio" id="ROtherRadio" name="relation" value="other"/>Other
+        &nbsp; Specify <input type="text" name="specify"/>
+    </fieldset>
+    </main>
+    <!--Draws the last box of the form which is not editable-->
+    <div class="margin" style="width: 99.2%; height: 255px; border: 3px solid black;margin-left: 1px;">
+        <div class="div-style" style="width: 100%;">DO NOT WRITE BELOW THIS LINE (FOR SSA USE ONLY)</div>
+        <br>
+        <div class="div-style" style="width: 29%;">NPN</div>
+        <div class="div-style" style="width: 15%;">DOC</div>
+        <div class="div-style" style="width: 15%;">NTI</div>
+        <div class="div-style" style="width: 24.67%;">CAN</div>
+        <div class="div-style" style="width: 15%;">ITV</div>
+        <br>
+        <div class="div-style" style="width: 12%;">PBC</div>
+        <div class="div-style" style="width: 12.5%;">EVI</div>
+        <div class="div-style" style="width: 12.2%;">EVA</div>
+        <div class="div-style" style="width: 12.28%;">EVC</div>
+        <div class="div-style" style="width: 12%;">PRA</div>
+        <div class="div-style" style="width: 12.5%;">NWR</div>
+        <div class="div-style" style="width: 12.15%;">DNR</div>
+        <div class="div-style" style="width: 12.25%;">UNIT</div>
+        <br>
+        <div class="div-style" style="width: 58.4%;height: 170px;">EVIDENCE SUBMITTED</div>
+        <div class="div-style" style="width: 41.23%; height: 170px; padding-top: 0px; padding-left: 0px;">
+            <div style="height: 71px; border-bottom: 1px solid black; padding-left: 2px;">SIGNATURE AND TITLE OF EMPLOYEE(S) REVIEWING EVIDENCE AND/OR CONDUCTING INTERVIEW</div>
+            <div style="height: 64px; border-bottom: 1px solid black; padding-right: 110px;" align="right">DATE</div>
+            <div style="padding-left: 2px; padding-top: 2px">DCL<span style="float: right; padding-right: 110px;">DATE</span></div>
+        </div>
+    </div><br>
+    <input type="submit" value="Submit">
+</form>
+<!--/div-->
+<hr class="size">
+<!--Specifies the footer and navigation to next page/Previous page of the document-->
+<footer class="margin">
+    <!--Left Part of footer starts-->
+    <x-footerLeft class = footer> <small> Form SS-5 (08-2011) ef (08-2011) </small> </x-footerLeft>
+    <!--Left Part of footer ends-->
+    <!--Right part of footer starts-->
+    <x-footerRight class = footer> Page 4
+        <!--Linking of Page 4 with Page 3 and Page 5-->
+        <span style="float: right" class="margin">  <a href = "Page4.html" target="_self"> Prev </a> </span>
+    </x-footerRight>
+    <!--Right part of footer ends-->
+</footer>
+<script>
+    var c = document.getElementById("signatureCanvas");
+    var ctx = c.getContext("2d");
+    ctx.font = "20px Times New Roman bold";
+    ctx.fillText("YOUR SIGNATURE",7,20);
+</script>
+</body>
+</html>
