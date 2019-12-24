@@ -1,0 +1,59 @@
+//styling the to-do div
+.display-todo{
+  width: 600px;
+  height: 60px;
+  margin-left: 25%;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 0.5px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  font-family: Bookman, URW Bookman L, serif;
+  font-size: large;
+  background-color: rgba(200, 200, 200, 0.45);
+}
+
+p{
+  cursor: pointer;
+  float: left;
+  width: 50%;
+}
+
+//Styling the checkbox
+#checkbox{
+  float: left;
+  width: 5%;
+  height: 19px;
+  margin-top: 20px;
+  font-size: large;
+  margin-right: 8px;
+}
+
+.display-todo:hover{
+  //box-shadow: 10px 10px 5px #aaaaaa;;
+  box-shadow: 5px 10px 18px rgba(168, 168, 168, 0.66);
+}
+
+.completed{
+  text-decoration: line-through;
+}
+
+.notCompleted{
+  text-decoration: none;
+}
+
+//Styling of close icon
+.close {
+  color: #757575;
+  float: right;
+  font-size: 30px;
+  font-weight: bolder;
+  margin-right: 20px;
+  padding-top: 10px;
+}
+
+.close:hover, .close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}

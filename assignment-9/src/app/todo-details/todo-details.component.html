@@ -1,0 +1,17 @@
+<div id="todoDetailsPopUp" [ngStyle]="{display: show ? 'block' : 'none'}">
+  <div class="popup-content">
+    <!--Close icon at right end of the box-->
+    <span class="close" (click)="closeCallback()">&times;</span>
+    <label>Title:</label>
+    <!--Creation of text box for Title-->
+    <input type="text" id="todoTitle" name="todoTitle" [value] = "todo == undefined ? '' : todo.title" [(ngModel)] = "todoTitle" placeholder="Title" [attr.disabled]="(todo == undefined ? false : todo.completed) ?'disabled' : null"/>
+    <label>Description:</label>
+    <!--Creation of text are for description-->
+    <textarea name="todoDesc" rows = 10 cols = 10 id="todoDesc" placeholder="Description" [value] = "todo == undefined ? '' : todo.content" [(ngModel)] = "todoContent" [attr.disabled]="(todo == undefined ? false : todo.completed) ?'disabled' : null"></textarea>
+    <br><label>Due Date:</label>
+    <!--Creation of datetime picker for due date-->
+    <input type="datetime-local" id="todoDueDate" name="todoDueDate" [value] = "convertedDate" [(ngModel)]="convertedDate" [attr.disabled]="(todo == undefined ? false : todo.completed) ?'disabled' : null"/>
+    <!--Creation of save button to save the data entered by user-->
+    <button name="save" (click)="saveData()" [attr.disabled]="(todo == undefined ? false : todo.completed) ?'disabled' : null">Save</button>
+  </div>
+</div>

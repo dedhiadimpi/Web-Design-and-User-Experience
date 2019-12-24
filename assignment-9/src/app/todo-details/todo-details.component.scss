@@ -1,0 +1,93 @@
+//Styling the entire detail popUp box
+#todoDetailsPopUp{
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0,0,0,0.7); /* Black w/ opacity */
+}
+
+//Styling the content elements of box
+.popup-content{
+  background-color: #fefefe;
+  margin-left: 25%;
+  margin-top: 4%;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 50%;
+  height: 450px;
+}
+
+//Styling two inputs: title text box and due date picker
+#todoTitle, #todoDueDate{
+  padding-left: 10px;
+  padding-right: 20px;
+  width: 500px;
+  height: 35px;
+}
+
+#todoTitle, #todoDueDate, #todoDesc, label{
+  font-family: Bookman, URW Bookman L, serif;
+  font-size: medium;
+}
+
+
+#todoTitle{
+  margin: 10px 20px 20px 20px;
+}
+
+//Styling of text area of description
+#todoDesc{
+  width: 500px;
+  height: 150px;
+  margin: 10px 20px 20px 20px;
+  padding: 10px 20px 20px 10px;
+  resize: none;
+}
+
+#todoDueDate{
+  margin: 10px 20px 20px 20px;
+}
+
+//Styling for save button
+button{
+  margin-left: 43%;
+  width: 77px;
+  height: 33px;
+  border-radius: 2px;
+  border: none;
+  text-align: center;
+  cursor: pointer;
+  background-color: rgba(0, 0, 203, 0.65);
+  color: white;
+  font-family: Bookman, URW Bookman L, serif;
+  font-size: medium;
+}
+
+button:hover{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+//Styling for close icon
+.close {
+  color: #757575;
+  float: right;
+  font-size: 30px;
+  font-weight: bolder;
+  margin-right: 20px;
+}
+
+.close:hover, .close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+//Styling for labels like Title, Description and Due date
+label{
+  margin-left: 20px;
+  font-weight: bold;
+}

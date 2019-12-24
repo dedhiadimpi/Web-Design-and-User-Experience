@@ -1,0 +1,15 @@
+<!--div to display all to-dos-->
+<div class = "display-todo">
+  <!--Checkbox for marking to-do as completed-->
+  <input type="checkbox" id="checkbox" (click)="toggleComplete()" [(ngModel)]="completed" [attr.checked]="todo.completed?'checked':null"/>
+  <!--Displaying the title and opening a popup box when title is clicked-->
+  <p (click)="togglePopUp()" [ngClass]="todo.completed?'completed':'notCompleted'"> {{todo.title}}</p>
+  <!--button to delete to-do-->
+  <span class="close" (click)="deleteTodo()">&times;</span>
+</div>
+<!--PopUp box for viewing details-->
+<app-todo-details
+  [show] = "showPopUp"
+  [closeCallback] = "togglePopUp"
+  [todo] = "todo">
+</app-todo-details>

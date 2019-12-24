@@ -1,0 +1,15 @@
+<!--header of the app-->
+<h1>Todo List</h1>
+<!--Button to add to-dos-->
+<div>
+  <button (click)="togglePopUp()">Add</button>
+</div>
+<!--If Add button is clicked display a pop up box for adding to-do details of new to-do-->
+<app-todo-details
+[show] = "showPopUp"
+[closeCallback]="togglePopUp" ></app-todo-details>
+<!--Looping the array of to-dos -->
+<div *ngFor="let item of todoList" class = "todo-area">
+    <!--calling to-do component for each to-do item-->
+    <app-todo [todo]="item" (newTodoEmitted)="deleteTodo(item)"></app-todo>
+</div>
